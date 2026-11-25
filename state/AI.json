@@ -131,6 +131,84 @@
     "source",
     "zero"
    ]
+  },
+  {
+   "id": "9986080c472745ef",
+   "title": "Staff at Anthropic and OpenAI reportedly warn some advanced models may be too risky to release",
+   "description": "Axios reports that more than two dozen sources say employees at both labs are worried their most capable unreleased models may not be safe to deploy. The concerns centre on the models' capabilities outpacing current safeguards.",
+   "link": "https://www.axios.com/2026/11/24/anthropic-openai-unreleased-ai-safety-risks",
+   "source_name": "Axios",
+   "sources": [
+    {
+     "name": "SiliconANGLE",
+     "url": "https://siliconangle.com/2026/11/24/staff-at-anthropic-and-open-ai-sound-alarm-on-advanced-models-too-powerful-to-release/"
+    }
+   ],
+   "published": "2026-11-24T12:00:00+00:00",
+   "added": "2026-11-25T23:07:08+00:00",
+   "tokens": [
+    "advanced",
+    "anthropic",
+    "may",
+    "models",
+    "openai",
+    "release",
+    "reportedly",
+    "risky",
+    "some",
+    "staff",
+    "too",
+    "warn"
+   ]
+  },
+  {
+   "id": "3704e82ef0b2fdd8",
+   "title": "Tidal to remove fully AI-generated tracks from its streaming service",
+   "description": "Tidal says it will delete tracks it identifies as fully AI-generated while still accepting AI-assisted music. The service says fully AI-made tracks made up 43% of uploads over a recent 90-day period.",
+   "link": "https://www.theguardian.com/music/2026/nov/25/tidal-streaming-service-bans-ai-generated-music",
+   "source_name": "The Guardian",
+   "sources": [
+    {
+     "name": "TechCrunch",
+     "url": "https://techcrunch.com/2026/11/24/tidal-to-ban-and-remove-millions-of-ai-generated-tracks-as-ai-slop-inundates-music-streaming/"
+    }
+   ],
+   "published": "2026-11-25T05:00:00+00:00",
+   "added": "2026-11-25T23:07:08+00:00",
+   "tokens": [
+    "ai",
+    "fully",
+    "generated",
+    "remove",
+    "service",
+    "streaming",
+    "tidal",
+    "tracks"
+   ]
+  },
+  {
+   "id": "5f74570ab96eede4",
+   "title": "Epochal launches with $100M to build AI that predicts outcomes, founded by ex-xAI co-founders",
+   "description": "A new startup founded by three xAI co-founders has emerged with $100 million to train predictive AI models that learn from experience. The company is pitching the approach to developers building such systems.",
+   "link": "https://siliconangle.com/2026/11/24/epochal-launches-with-100m-to-help-developers-train-predictive-ai-models/",
+   "source_name": "SiliconANGLE",
+   "sources": [],
+   "published": "2026-11-24T18:00:00+00:00",
+   "added": "2026-11-25T23:07:08+00:00",
+   "tokens": [
+    "100m",
+    "ai",
+    "build",
+    "co",
+    "epochal",
+    "ex",
+    "founded",
+    "founders",
+    "launches",
+    "outcomes",
+    "predicts",
+    "xai"
+   ]
   }
  ]
 }

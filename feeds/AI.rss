@@ -5,7 +5,7 @@
 <link>https://n3yne.github.io/news-feeds/</link>
 <description>Headlines about artificial intelligence from the last 24 hours, one entry per story with sources.</description>
 <language>en-us</language>
-<lastBuildDate>Wed, 25 Nov 2026 21:06:28 +0000</lastBuildDate>
+<lastBuildDate>Wed, 25 Nov 2026 23:07:08 +0000</lastBuildDate>
 <atom:link href="https://n3yne.github.io/news-feeds/feeds/AI.rss" rel="self" type="application/rss+xml"/>
 <item>
 <title>Nvidia board reinstates Jensen Huang as CEO after White House pressure</title>
@@ -27,6 +27,27 @@
 <guid isPermaLink="false">3c6728c1bfd19879</guid>
 <pubDate>Wed, 25 Nov 2026 05:00:00 +0000</pubDate>
 <description><![CDATA[<p>OpenAI reports that GPT-6 models designed proteins that showed binding to five laboratory targets. The company published the results on its site.</p><p>Sources: <a href="https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities/">OpenAI</a> (primary), <a href="https://www.theneuron.ai/digest/everything-that-happened-in-ai-today-november-25-2026/">The Neuron</a></p>]]></description>
+</item>
+<item>
+<title>Tidal to remove fully AI-generated tracks from its streaming service</title>
+<link>https://www.theguardian.com/music/2026/nov/25/tidal-streaming-service-bans-ai-generated-music</link>
+<guid isPermaLink="false">3704e82ef0b2fdd8</guid>
+<pubDate>Wed, 25 Nov 2026 05:00:00 +0000</pubDate>
+<description><![CDATA[<p>Tidal says it will delete tracks it identifies as fully AI-generated while still accepting AI-assisted music. The service says fully AI-made tracks made up 43% of uploads over a recent 90-day period.</p><p>Sources: <a href="https://www.theguardian.com/music/2026/nov/25/tidal-streaming-service-bans-ai-generated-music">The Guardian</a> (primary), <a href="https://techcrunch.com/2026/11/24/tidal-to-ban-and-remove-millions-of-ai-generated-tracks-as-ai-slop-inundates-music-streaming/">TechCrunch</a></p>]]></description>
+</item>
+<item>
+<title>Epochal launches with $100M to build AI that predicts outcomes, founded by ex-xAI co-founders</title>
+<link>https://siliconangle.com/2026/11/24/epochal-launches-with-100m-to-help-developers-train-predictive-ai-models/</link>
+<guid isPermaLink="false">5f74570ab96eede4</guid>
+<pubDate>Tue, 24 Nov 2026 18:00:00 +0000</pubDate>
+<description><![CDATA[<p>A new startup founded by three xAI co-founders has emerged with $100 million to train predictive AI models that learn from experience. The company is pitching the approach to developers building such systems.</p><p>Sources: <a href="https://siliconangle.com/2026/11/24/epochal-launches-with-100m-to-help-developers-train-predictive-ai-models/">SiliconANGLE</a> (primary)</p>]]></description>
+</item>
+<item>
+<title>Staff at Anthropic and OpenAI reportedly warn some advanced models may be too risky to release</title>
+<link>https://www.axios.com/2026/11/24/anthropic-openai-unreleased-ai-safety-risks</link>
+<guid isPermaLink="false">9986080c472745ef</guid>
+<pubDate>Tue, 24 Nov 2026 12:00:00 +0000</pubDate>
+<description><![CDATA[<p>Axios reports that more than two dozen sources say employees at both labs are worried their most capable unreleased models may not be safe to deploy. The concerns centre on the models&#x27; capabilities outpacing current safeguards.</p><p>Sources: <a href="https://www.axios.com/2026/11/24/anthropic-openai-unreleased-ai-safety-risks">Axios</a> (primary), <a href="https://siliconangle.com/2026/11/24/staff-at-anthropic-and-open-ai-sound-alarm-on-advanced-models-too-powerful-to-release/">SiliconANGLE</a></p>]]></description>
 </item>
 <item>
 <title>Oregon and Virginia sue SpaceX over Grok-generated sexualized deepfakes</title>
