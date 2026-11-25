@@ -5,8 +5,22 @@
 <link>https://n3yne.github.io/news-feeds/</link>
 <description>Headlines about artificial intelligence from the last 24 hours, one entry per story with sources.</description>
 <language>en-us</language>
-<lastBuildDate>Wed, 25 Nov 2026 20:51:53 +0000</lastBuildDate>
+<lastBuildDate>Wed, 25 Nov 2026 21:06:28 +0000</lastBuildDate>
 <atom:link href="https://n3yne.github.io/news-feeds/feeds/AI.rss" rel="self" type="application/rss+xml"/>
+<item>
+<title>Nvidia board reinstates Jensen Huang as CEO after White House pressure</title>
+<link>https://www.tomshardware.com/tech-industry/policy/reinstated-nvidia-ceo-jensen-huang-must-still-face-china-congressional-and-senate-banking-committees-senators-and-representatives-demand-answers-from-nvidia-ceo-on-national-security-threats-and-export-controls</link>
+<guid isPermaLink="false">4e8efa2064f7f4f2</guid>
+<pubDate>Wed, 25 Nov 2026 12:00:00 +0000</pubDate>
+<description><![CDATA[<p>Nvidia&#x27;s board brought Jensen Huang back as chief executive following pressure from the administration. Markets initially rallied, but he still faces congressional and Senate Banking scrutiny over chip export controls and China.</p><p>Sources: <a href="https://www.tomshardware.com/tech-industry/policy/reinstated-nvidia-ceo-jensen-huang-must-still-face-china-congressional-and-senate-banking-committees-senators-and-representatives-demand-answers-from-nvidia-ceo-on-national-security-threats-and-export-controls">Tom&#x27;s Hardware</a> (primary), <a href="https://www.semafor.com/article/11/25/2026/the-dopamine-hit-in-markets-from-jensen-huangs-comeback-has-already-faded">Semafor</a>, <a href="https://www.cnbc.com/2026/11/25/jensen-huang-nvidia-ai-talent-race.html">CNBC</a></p>]]></description>
+</item>
+<item>
+<title>Amazon says open-source AI agent largely autonomously exploited a zero-day</title>
+<link>https://gizmodo.com/amazon-says-open-source-ai-agent-mostly-autonomously-exploited-a-zero-day-2000844891</link>
+<guid isPermaLink="false">19445fce904d70b0</guid>
+<pubDate>Wed, 25 Nov 2026 10:00:00 +0000</pubDate>
+<description><![CDATA[<p>Amazon reported that an open-source AI agent gained unauthorized access by exploiting a previously unknown vulnerability with little human involvement. The case is a notable example of autonomous offensive capability in agents.</p><p>Sources: <a href="https://gizmodo.com/amazon-says-open-source-ai-agent-mostly-autonomously-exploited-a-zero-day-2000844891">Gizmodo</a> (primary)</p>]]></description>
+</item>
 <item>
 <title>OpenAI says GPT-6 models showed intrinsic protein-design ability</title>
 <link>https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities/</link>

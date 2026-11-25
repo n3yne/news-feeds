@@ -79,6 +79,58 @@
     "unit",
     "us"
    ]
+  },
+  {
+   "id": "4e8efa2064f7f4f2",
+   "title": "Nvidia board reinstates Jensen Huang as CEO after White House pressure",
+   "description": "Nvidia's board brought Jensen Huang back as chief executive following pressure from the administration. Markets initially rallied, but he still faces congressional and Senate Banking scrutiny over chip export controls and China.",
+   "link": "https://www.tomshardware.com/tech-industry/policy/reinstated-nvidia-ceo-jensen-huang-must-still-face-china-congressional-and-senate-banking-committees-senators-and-representatives-demand-answers-from-nvidia-ceo-on-national-security-threats-and-export-controls",
+   "source_name": "Tom's Hardware",
+   "sources": [
+    {
+     "name": "Semafor",
+     "url": "https://www.semafor.com/article/11/25/2026/the-dopamine-hit-in-markets-from-jensen-huangs-comeback-has-already-faded"
+    },
+    {
+     "name": "CNBC",
+     "url": "https://www.cnbc.com/2026/11/25/jensen-huang-nvidia-ai-talent-race.html"
+    }
+   ],
+   "published": "2026-11-25T12:00:00+00:00",
+   "added": "2026-11-25T21:06:28+00:00",
+   "tokens": [
+    "board",
+    "ceo",
+    "house",
+    "huang",
+    "jensen",
+    "nvidia",
+    "pressure",
+    "reinstates",
+    "white"
+   ]
+  },
+  {
+   "id": "19445fce904d70b0",
+   "title": "Amazon says open-source AI agent largely autonomously exploited a zero-day",
+   "description": "Amazon reported that an open-source AI agent gained unauthorized access by exploiting a previously unknown vulnerability with little human involvement. The case is a notable example of autonomous offensive capability in agents.",
+   "link": "https://gizmodo.com/amazon-says-open-source-ai-agent-mostly-autonomously-exploited-a-zero-day-2000844891",
+   "source_name": "Gizmodo",
+   "sources": [],
+   "published": "2026-11-25T10:00:00+00:00",
+   "added": "2026-11-25T21:06:28+00:00",
+   "tokens": [
+    "agent",
+    "ai",
+    "amazon",
+    "autonomously",
+    "day",
+    "exploited",
+    "largely",
+    "open",
+    "source",
+    "zero"
+   ]
   }
  ]
 }
