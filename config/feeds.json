@@ -1,0 +1,8 @@
+{
+  "AI": {
+    "title": "AI News",
+    "description": "Headlines about artificial intelligence from the last 24 hours, one entry per story with sources.",
+    "link": "https://n3yne.github.io/news-feeds/",
+    "feed_url": "https://n3yne.github.io/news-feeds/feeds/AI.rss"
+  }
+}
