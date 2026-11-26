@@ -5,7 +5,7 @@
 <link>https://n3yne.github.io/news-feeds/</link>
 <description>Headlines about artificial intelligence from the last 24 hours, one entry per story with sources.</description>
 <language>en-us</language>
-<lastBuildDate>Thu, 26 Nov 2026 21:05:55 +0000</lastBuildDate>
+<lastBuildDate>Thu, 26 Nov 2026 23:05:47 +0000</lastBuildDate>
 <atom:link href="https://n3yne.github.io/news-feeds/feeds/AI.rss" rel="self" type="application/rss+xml"/>
 <item>
 <title>OpenAI to merge ChatGPT and Codex usage limits into one shared token pool</title>
@@ -29,6 +29,13 @@
 <description><![CDATA[<p>The FCC authorized SpaceX&#x27;s Starmind proposal for a potential constellation of up to one million satellites meant to run AI workloads in orbit. The approval covers a possible network rather than a deployed one, and scientists question the cooling and economics.</p><p>Sources: <a href="https://apnews.com/article/b9897fe06f851ffaf92fd304ae69075c">Associated Press</a> (primary), <a href="https://gizmodo.com/feds-approve-spacexs-ai-data-center-satellites-all-1-million-of-them-2000845526">Gizmodo</a></p>]]></description>
 </item>
 <item>
+<title>Anthropic&#x27;s Amodei dismisses reports that he favors ceding human control to AI as &#x27;absurd&#x27;</title>
+<link>https://techcrunch.com/2026/11/25/anthropics-dario-amodei-calls-accusations-of-surrendering-human-control-to-ai-absurd/</link>
+<guid isPermaLink="false">372ac891332249b4</guid>
+<pubDate>Wed, 25 Nov 2026 22:00:00 +0000</pubDate>
+<description><![CDATA[<p>Anthropic CEO Dario Amodei publicly rejected accusations, stemming from Axios reporting, that he supports handing key decisions to AI systems. He disputed the characterization of his views on human oversight.</p><p>Sources: <a href="https://techcrunch.com/2026/11/25/anthropics-dario-amodei-calls-accusations-of-surrendering-human-control-to-ai-absurd/">TechCrunch</a> (primary), <a href="https://www.axios.com/2026/11/25/anthropic-dario-amodei-ai-free-will-contro-axios">Axios</a></p>]]></description>
+</item>
+<item>
 <title>New York governor signs five-year ban on AI-chatbot-powered toys</title>
 <link>https://www.nbcnews.com/tech/tech-news/new-york-governor-kathy-hochul-sign-ai-toy-ban-law-rcna610962</link>
 <guid isPermaLink="false">bf26e58d470bf09e</guid>
@@ -48,6 +55,13 @@
 <guid isPermaLink="false">07e4d185180e82a5</guid>
 <pubDate>Wed, 25 Nov 2026 18:00:00 +0000</pubDate>
 <description><![CDATA[<p>Anthropic says AI agents compared the Python and Rust implementations against live requests and fixed discrepancies under human review. The company reports about 70% lower CPU use per request and a 20% shorter median time to first token; those figures are its own.</p><p>Sources: <a href="https://www.anthropic.com/research/migrating-api-to-rust">Anthropic</a> (primary), <a href="https://www.theneuron.ai/news/anthropic-claude-api-rust-migration/">The Neuron</a></p>]]></description>
+</item>
+<item>
+<title>Anthropic expands Zurich office to recruit local AI researchers</title>
+<link>https://www.bloomberg.com/news/articles/2026-11-25/anthropic-expands-in-zurich-moving-to-tap-city-s-ai-talent-pool</link>
+<guid isPermaLink="false">50f1c4b5b5635e1e</guid>
+<pubDate>Wed, 25 Nov 2026 18:00:00 +0000</pubDate>
+<description><![CDATA[<p>Anthropic is moving into a larger office in Zurich as it seeks to tap the city&#x27;s pool of AI talent, according to Bloomberg.</p><p>Sources: <a href="https://www.bloomberg.com/news/articles/2026-11-25/anthropic-expands-in-zurich-moving-to-tap-city-s-ai-talent-pool">Bloomberg</a> (primary)</p>]]></description>
 </item>
 <item>
 <title>Anthropic lets Claude artifacts be installed as standalone desktop apps in beta</title>

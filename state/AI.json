@@ -556,6 +556,54 @@
     "us",
     "write"
    ]
+  },
+  {
+   "id": "372ac891332249b4",
+   "title": "Anthropic's Amodei dismisses reports that he favors ceding human control to AI as 'absurd'",
+   "description": "Anthropic CEO Dario Amodei publicly rejected accusations, stemming from Axios reporting, that he supports handing key decisions to AI systems. He disputed the characterization of his views on human oversight.",
+   "link": "https://techcrunch.com/2026/11/25/anthropics-dario-amodei-calls-accusations-of-surrendering-human-control-to-ai-absurd/",
+   "source_name": "TechCrunch",
+   "sources": [
+    {
+     "name": "Axios",
+     "url": "https://www.axios.com/2026/11/25/anthropic-dario-amodei-ai-free-will-contro-axios"
+    }
+   ],
+   "published": "2026-11-25T22:00:00+00:00",
+   "added": "2026-11-26T23:05:47+00:00",
+   "tokens": [
+    "absurd",
+    "ai",
+    "amodei",
+    "anthropic",
+    "ceding",
+    "control",
+    "dismisses",
+    "favors",
+    "he",
+    "human",
+    "reports"
+   ]
+  },
+  {
+   "id": "50f1c4b5b5635e1e",
+   "title": "Anthropic expands Zurich office to recruit local AI researchers",
+   "description": "Anthropic is moving into a larger office in Zurich as it seeks to tap the city's pool of AI talent, according to Bloomberg.",
+   "link": "https://www.bloomberg.com/news/articles/2026-11-25/anthropic-expands-in-zurich-moving-to-tap-city-s-ai-talent-pool",
+   "source_name": "Bloomberg",
+   "sources": [],
+   "published": "2026-11-25T18:00:00+00:00",
+   "added": "2026-11-26T23:05:47+00:00",
+   "tokens": [
+    "ai",
+    "anthropic",
+    "expands",
+    "local",
+    "office",
+    "recruit",
+    "researchers",
+    "zurich"
+   ]
   }
  ]
 }
