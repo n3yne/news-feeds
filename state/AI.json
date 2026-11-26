@@ -209,6 +209,55 @@
     "predicts",
     "xai"
    ]
+  },
+  {
+   "id": "38f3d822d5643be7",
+   "title": "Anthropic lets Claude artifacts be installed as standalone desktop apps in beta",
+   "description": "Claude artifacts can now be installed as apps on Mac and Windows, with their own windows, notifications and menu bar items. Users choose among three permission levels, including optional full computer access.",
+   "link": "https://claude.com/resources/articles/install-as-app",
+   "source_name": "Anthropic",
+   "sources": [
+    {
+     "name": "ClaudeDevs on X",
+     "url": "https://x.com/ClaudeDevs/status/2125315491522650299"
+    }
+   ],
+   "published": "2026-11-25T14:00:00+00:00",
+   "added": "2026-11-26T01:07:16+00:00",
+   "tokens": [
+    "anthropic",
+    "apps",
+    "artifacts",
+    "beta",
+    "claude",
+    "desktop",
+    "installed",
+    "lets",
+    "standalone"
+   ]
+  },
+  {
+   "id": "b1e5839c1dc50666",
+   "title": "Walmart and Meta let shoppers buy Black Friday deals inside Meta's Muse assistant",
+   "description": "Walmart's Agent Gateway is being integrated with Meta's Muse so users can complete purchases in chat. Account-linked spending limits and saved payment methods are supported.",
+   "link": "https://techcrunch.com/2026/11/24/walmart-teams-up-with-meta-to-bring-black-friday-deals-to-ai-agent-muse/",
+   "source_name": "TechCrunch",
+   "sources": [],
+   "published": "2026-11-24T15:00:00+00:00",
+   "added": "2026-11-26T01:07:16+00:00",
+   "tokens": [
+    "assistant",
+    "black",
+    "buy",
+    "deals",
+    "friday",
+    "inside",
+    "let",
+    "meta",
+    "muse",
+    "shoppers",
+    "walmart"
+   ]
   }
  ]
 }

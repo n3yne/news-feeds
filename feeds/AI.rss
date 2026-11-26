@@ -5,8 +5,15 @@
 <link>https://n3yne.github.io/news-feeds/</link>
 <description>Headlines about artificial intelligence from the last 24 hours, one entry per story with sources.</description>
 <language>en-us</language>
-<lastBuildDate>Wed, 25 Nov 2026 23:07:08 +0000</lastBuildDate>
+<lastBuildDate>Thu, 26 Nov 2026 01:07:16 +0000</lastBuildDate>
 <atom:link href="https://n3yne.github.io/news-feeds/feeds/AI.rss" rel="self" type="application/rss+xml"/>
+<item>
+<title>Anthropic lets Claude artifacts be installed as standalone desktop apps in beta</title>
+<link>https://claude.com/resources/articles/install-as-app</link>
+<guid isPermaLink="false">38f3d822d5643be7</guid>
+<pubDate>Wed, 25 Nov 2026 14:00:00 +0000</pubDate>
+<description><![CDATA[<p>Claude artifacts can now be installed as apps on Mac and Windows, with their own windows, notifications and menu bar items. Users choose among three permission levels, including optional full computer access.</p><p>Sources: <a href="https://claude.com/resources/articles/install-as-app">Anthropic</a> (primary), <a href="https://x.com/ClaudeDevs/status/2125315491522650299">ClaudeDevs on X</a></p>]]></description>
+</item>
 <item>
 <title>Nvidia board reinstates Jensen Huang as CEO after White House pressure</title>
 <link>https://www.tomshardware.com/tech-industry/policy/reinstated-nvidia-ceo-jensen-huang-must-still-face-china-congressional-and-senate-banking-committees-senators-and-representatives-demand-answers-from-nvidia-ceo-on-national-security-threats-and-export-controls</link>
@@ -41,6 +48,13 @@
 <guid isPermaLink="false">5f74570ab96eede4</guid>
 <pubDate>Tue, 24 Nov 2026 18:00:00 +0000</pubDate>
 <description><![CDATA[<p>A new startup founded by three xAI co-founders has emerged with $100 million to train predictive AI models that learn from experience. The company is pitching the approach to developers building such systems.</p><p>Sources: <a href="https://siliconangle.com/2026/11/24/epochal-launches-with-100m-to-help-developers-train-predictive-ai-models/">SiliconANGLE</a> (primary)</p>]]></description>
+</item>
+<item>
+<title>Walmart and Meta let shoppers buy Black Friday deals inside Meta&#x27;s Muse assistant</title>
+<link>https://techcrunch.com/2026/11/24/walmart-teams-up-with-meta-to-bring-black-friday-deals-to-ai-agent-muse/</link>
+<guid isPermaLink="false">b1e5839c1dc50666</guid>
+<pubDate>Tue, 24 Nov 2026 15:00:00 +0000</pubDate>
+<description><![CDATA[<p>Walmart&#x27;s Agent Gateway is being integrated with Meta&#x27;s Muse so users can complete purchases in chat. Account-linked spending limits and saved payment methods are supported.</p><p>Sources: <a href="https://techcrunch.com/2026/11/24/walmart-teams-up-with-meta-to-bring-black-friday-deals-to-ai-agent-muse/">TechCrunch</a> (primary)</p>]]></description>
 </item>
 <item>
 <title>Staff at Anthropic and OpenAI reportedly warn some advanced models may be too risky to release</title>
