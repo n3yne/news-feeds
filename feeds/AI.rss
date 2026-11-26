@@ -5,7 +5,7 @@
 <link>https://n3yne.github.io/news-feeds/</link>
 <description>Headlines about artificial intelligence from the last 24 hours, one entry per story with sources.</description>
 <language>en-us</language>
-<lastBuildDate>Thu, 26 Nov 2026 17:06:33 +0000</lastBuildDate>
+<lastBuildDate>Thu, 26 Nov 2026 21:05:55 +0000</lastBuildDate>
 <atom:link href="https://n3yne.github.io/news-feeds/feeds/AI.rss" rel="self" type="application/rss+xml"/>
 <item>
 <title>OpenAI to merge ChatGPT and Codex usage limits into one shared token pool</title>
@@ -43,6 +43,13 @@
 <description><![CDATA[<p>A new US export rule restricts foreign parties from remotely using advanced Nvidia compute. Asian data-center operators are scrambling to adjust, and lenders have reportedly paused financing tied to major Chinese cloud providers.</p><p>Sources: <a href="https://www.semafor.com/article/11/25/2026/new-us-export-rules-threaten-asian-ai-buildout">Semafor</a> (primary), <a href="https://wpnews.pro/news/chinese-ai-firms-explore-remote-access-to-nvidia-chips-as-us-export-rules">WPNews</a></p>]]></description>
 </item>
 <item>
+<title>Anthropic says it migrated its Messages API from Python to Rust using Claude agents</title>
+<link>https://www.anthropic.com/research/migrating-api-to-rust</link>
+<guid isPermaLink="false">07e4d185180e82a5</guid>
+<pubDate>Wed, 25 Nov 2026 18:00:00 +0000</pubDate>
+<description><![CDATA[<p>Anthropic says AI agents compared the Python and Rust implementations against live requests and fixed discrepancies under human review. The company reports about 70% lower CPU use per request and a 20% shorter median time to first token; those figures are its own.</p><p>Sources: <a href="https://www.anthropic.com/research/migrating-api-to-rust">Anthropic</a> (primary), <a href="https://www.theneuron.ai/news/anthropic-claude-api-rust-migration/">The Neuron</a></p>]]></description>
+</item>
+<item>
 <title>Anthropic lets Claude artifacts be installed as standalone desktop apps in beta</title>
 <link>https://claude.com/resources/articles/install-as-app</link>
 <guid isPermaLink="false">38f3d822d5643be7</guid>
@@ -64,11 +71,25 @@
 <description><![CDATA[<p>The European Commission put forward a fund targeting 50 billion euros in long-term equity for European AI and quantum companies, alongside a draft Quantum Act favoring EU-controlled suppliers in public procurement. The figure is a target, and the plan still needs negotiation with member states and Parliament.</p><p>Sources: <a href="https://www.dw.com/en/eu-plans-50-billion-sovereign-tech-equity-fund-to-boost-quantum-technology/a-80047569">DW</a> (primary), <a href="https://commission.europa.eu/">European Commission</a></p>]]></description>
 </item>
 <item>
+<title>Ant Group releases Ling-3.2-air multimodal model with open MIT-licensed weights</title>
+<link>https://technode.com/2026/11/25/ant-releases-ling-3-2-air-multimodal-model-under-mit-license/</link>
+<guid isPermaLink="false">c2d571996e826bec</guid>
+<pubDate>Wed, 25 Nov 2026 12:00:00 +0000</pubDate>
+<description><![CDATA[<p>The model handles text, images and video and is aimed at professional tasks using software tools. Weights can be downloaded and commercially adapted. Ant reports a 61% score on its own office-automation test, versus 15.7% for its earlier Ling-3.0-flash-VL.</p><p>Sources: <a href="https://technode.com/2026/11/25/ant-releases-ling-3-2-air-multimodal-model-under-mit-license/">TechNode</a> (primary)</p>]]></description>
+</item>
+<item>
 <title>Amazon says open-source AI agent largely autonomously exploited a zero-day</title>
 <link>https://gizmodo.com/amazon-says-open-source-ai-agent-mostly-autonomously-exploited-a-zero-day-2000844891</link>
 <guid isPermaLink="false">19445fce904d70b0</guid>
 <pubDate>Wed, 25 Nov 2026 10:00:00 +0000</pubDate>
 <description><![CDATA[<p>Amazon reported that an open-source AI agent gained unauthorized access by exploiting a previously unknown vulnerability with little human involvement. The case is a notable example of autonomous offensive capability in agents.</p><p>Sources: <a href="https://gizmodo.com/amazon-says-open-source-ai-agent-mostly-autonomously-exploited-a-zero-day-2000844891">Gizmodo</a> (primary)</p>]]></description>
+</item>
+<item>
+<title>Japan to write goal of becoming a global AI leader behind US and China into security documents</title>
+<link>https://www.nationthailand.com/news/world/40073929</link>
+<guid isPermaLink="false">636e5252b977ddaf</guid>
+<pubDate>Wed, 25 Nov 2026 09:00:00 +0000</pubDate>
+<description><![CDATA[<p>Japan plans to add the goal to revised versions of its three main national security documents later this year, with heavy investment in physical AI and automated driving and less reliance on foreign AI. The ruling LDP broadly endorsed the economic security sections at a party meeting.</p><p>Sources: <a href="https://www.nationthailand.com/news/world/40073929">Nation Thailand (Jiji Press)</a> (primary)</p>]]></description>
 </item>
 <item>
 <title>OpenAI says GPT-6 models showed intrinsic protein-design ability</title>

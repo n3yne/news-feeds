@@ -483,6 +483,79 @@
     "shopping",
     "talks"
    ]
+  },
+  {
+   "id": "07e4d185180e82a5",
+   "title": "Anthropic says it migrated its Messages API from Python to Rust using Claude agents",
+   "description": "Anthropic says AI agents compared the Python and Rust implementations against live requests and fixed discrepancies under human review. The company reports about 70% lower CPU use per request and a 20% shorter median time to first token; those figures are its own.",
+   "link": "https://www.anthropic.com/research/migrating-api-to-rust",
+   "source_name": "Anthropic",
+   "sources": [
+    {
+     "name": "The Neuron",
+     "url": "https://www.theneuron.ai/news/anthropic-claude-api-rust-migration/"
+    }
+   ],
+   "published": "2026-11-25T18:00:00+00:00",
+   "added": "2026-11-26T21:05:55+00:00",
+   "tokens": [
+    "agents",
+    "anthropic",
+    "api",
+    "claude",
+    "messages",
+    "migrated",
+    "python",
+    "rust",
+    "using"
+   ]
+  },
+  {
+   "id": "c2d571996e826bec",
+   "title": "Ant Group releases Ling-3.2-air multimodal model with open MIT-licensed weights",
+   "description": "The model handles text, images and video and is aimed at professional tasks using software tools. Weights can be downloaded and commercially adapted. Ant reports a 61% score on its own office-automation test, versus 15.7% for its earlier Ling-3.0-flash-VL.",
+   "link": "https://technode.com/2026/11/25/ant-releases-ling-3-2-air-multimodal-model-under-mit-license/",
+   "source_name": "TechNode",
+   "sources": [],
+   "published": "2026-11-25T12:00:00+00:00",
+   "added": "2026-11-26T21:05:55+00:00",
+   "tokens": [
+    "air",
+    "ant",
+    "group",
+    "licensed",
+    "ling",
+    "mit",
+    "model",
+    "multimodal",
+    "open",
+    "releases",
+    "weights"
+   ]
+  },
+  {
+   "id": "636e5252b977ddaf",
+   "title": "Japan to write goal of becoming a global AI leader behind US and China into security documents",
+   "description": "Japan plans to add the goal to revised versions of its three main national security documents later this year, with heavy investment in physical AI and automated driving and less reliance on foreign AI. The ruling LDP broadly endorsed the economic security sections at a party meeting.",
+   "link": "https://www.nationthailand.com/news/world/40073929",
+   "source_name": "Nation Thailand (Jiji Press)",
+   "sources": [],
+   "published": "2026-11-25T09:00:00+00:00",
+   "added": "2026-11-26T21:05:55+00:00",
+   "tokens": [
+    "ai",
+    "becoming",
+    "behind",
+    "china",
+    "documents",
+    "global",
+    "goal",
+    "japan",
+    "leader",
+    "security",
+    "us",
+    "write"
+   ]
   }
  ]
 }
