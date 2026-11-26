@@ -5,8 +5,29 @@
 <link>https://n3yne.github.io/news-feeds/</link>
 <description>Headlines about artificial intelligence from the last 24 hours, one entry per story with sources.</description>
 <language>en-us</language>
-<lastBuildDate>Thu, 26 Nov 2026 01:07:16 +0000</lastBuildDate>
+<lastBuildDate>Thu, 26 Nov 2026 03:06:08 +0000</lastBuildDate>
 <atom:link href="https://n3yne.github.io/news-feeds/feeds/AI.rss" rel="self" type="application/rss+xml"/>
+<item>
+<title>FCC approves SpaceX plan for up to one million orbital AI computing satellites</title>
+<link>https://apnews.com/article/b9897fe06f851ffaf92fd304ae69075c</link>
+<guid isPermaLink="false">88e2ac34a84808a9</guid>
+<pubDate>Wed, 25 Nov 2026 22:00:00 +0000</pubDate>
+<description><![CDATA[<p>The FCC authorized SpaceX&#x27;s Starmind proposal for a potential constellation of up to one million satellites meant to run AI workloads in orbit. The approval covers a possible network rather than a deployed one, and scientists question the cooling and economics.</p><p>Sources: <a href="https://apnews.com/article/b9897fe06f851ffaf92fd304ae69075c">Associated Press</a> (primary), <a href="https://gizmodo.com/feds-approve-spacexs-ai-data-center-satellites-all-1-million-of-them-2000845526">Gizmodo</a></p>]]></description>
+</item>
+<item>
+<title>New York governor signs five-year ban on AI-chatbot-powered toys</title>
+<link>https://www.nbcnews.com/tech/tech-news/new-york-governor-kathy-hochul-sign-ai-toy-ban-law-rcna610962</link>
+<guid isPermaLink="false">bf26e58d470bf09e</guid>
+<pubDate>Wed, 25 Nov 2026 20:00:00 +0000</pubDate>
+<description><![CDATA[<p>Gov. Kathy Hochul signed a law prohibiting the manufacture and sale of toys powered by AI chatbots for five years.</p><p>Sources: <a href="https://www.nbcnews.com/tech/tech-news/new-york-governor-kathy-hochul-sign-ai-toy-ban-law-rcna610962">NBC News</a> (primary)</p>]]></description>
+</item>
+<item>
+<title>US Commerce rule closing remote-access loophole for advanced AI chips rattles Asian data-center buildout</title>
+<link>https://www.semafor.com/article/11/25/2026/new-us-export-rules-threaten-asian-ai-buildout</link>
+<guid isPermaLink="false">8d68f8ea00812a3e</guid>
+<pubDate>Wed, 25 Nov 2026 18:00:00 +0000</pubDate>
+<description><![CDATA[<p>A new US export rule restricts foreign parties from remotely using advanced Nvidia compute. Asian data-center operators are scrambling to adjust, and lenders have reportedly paused financing tied to major Chinese cloud providers.</p><p>Sources: <a href="https://www.semafor.com/article/11/25/2026/new-us-export-rules-threaten-asian-ai-buildout">Semafor</a> (primary), <a href="https://wpnews.pro/news/chinese-ai-firms-explore-remote-access-to-nvidia-chips-as-us-export-rules">WPNews</a></p>]]></description>
+</item>
 <item>
 <title>Anthropic lets Claude artifacts be installed as standalone desktop apps in beta</title>
 <link>https://claude.com/resources/articles/install-as-app</link>

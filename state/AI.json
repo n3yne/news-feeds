@@ -258,6 +258,88 @@
     "shoppers",
     "walmart"
    ]
+  },
+  {
+   "id": "8d68f8ea00812a3e",
+   "title": "US Commerce rule closing remote-access loophole for advanced AI chips rattles Asian data-center buildout",
+   "description": "A new US export rule restricts foreign parties from remotely using advanced Nvidia compute. Asian data-center operators are scrambling to adjust, and lenders have reportedly paused financing tied to major Chinese cloud providers.",
+   "link": "https://www.semafor.com/article/11/25/2026/new-us-export-rules-threaten-asian-ai-buildout",
+   "source_name": "Semafor",
+   "sources": [
+    {
+     "name": "WPNews",
+     "url": "https://wpnews.pro/news/chinese-ai-firms-explore-remote-access-to-nvidia-chips-as-us-export-rules"
+    }
+   ],
+   "published": "2026-11-25T18:00:00+00:00",
+   "added": "2026-11-26T03:06:08+00:00",
+   "tokens": [
+    "access",
+    "advanced",
+    "ai",
+    "asian",
+    "buildout",
+    "center",
+    "chips",
+    "closing",
+    "commerce",
+    "data",
+    "loophole",
+    "rattles",
+    "remote",
+    "rule",
+    "us"
+   ]
+  },
+  {
+   "id": "88e2ac34a84808a9",
+   "title": "FCC approves SpaceX plan for up to one million orbital AI computing satellites",
+   "description": "The FCC authorized SpaceX's Starmind proposal for a potential constellation of up to one million satellites meant to run AI workloads in orbit. The approval covers a possible network rather than a deployed one, and scientists question the cooling and economics.",
+   "link": "https://apnews.com/article/b9897fe06f851ffaf92fd304ae69075c",
+   "source_name": "Associated Press",
+   "sources": [
+    {
+     "name": "Gizmodo",
+     "url": "https://gizmodo.com/feds-approve-spacexs-ai-data-center-satellites-all-1-million-of-them-2000845526"
+    }
+   ],
+   "published": "2026-11-25T22:00:00+00:00",
+   "added": "2026-11-26T03:06:08+00:00",
+   "tokens": [
+    "ai",
+    "approves",
+    "computing",
+    "fcc",
+    "million",
+    "one",
+    "orbital",
+    "plan",
+    "satellites",
+    "spacex",
+    "up"
+   ]
+  },
+  {
+   "id": "bf26e58d470bf09e",
+   "title": "New York governor signs five-year ban on AI-chatbot-powered toys",
+   "description": "Gov. Kathy Hochul signed a law prohibiting the manufacture and sale of toys powered by AI chatbots for five years.",
+   "link": "https://www.nbcnews.com/tech/tech-news/new-york-governor-kathy-hochul-sign-ai-toy-ban-law-rcna610962",
+   "source_name": "NBC News",
+   "sources": [],
+   "published": "2026-11-25T20:00:00+00:00",
+   "added": "2026-11-26T03:06:08+00:00",
+   "tokens": [
+    "ai",
+    "ban",
+    "chatbot",
+    "five",
+    "governor",
+    "powered",
+    "signs",
+    "toys",
+    "year",
+    "york"
+   ]
   }
  ]
 }
