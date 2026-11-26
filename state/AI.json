@@ -340,6 +340,63 @@
     "year",
     "york"
    ]
+  },
+  {
+   "id": "6fbd98b19eadc97c",
+   "title": "EU proposes 50 billion euro Sovereign Tech Equity Fund for European AI and quantum firms",
+   "description": "The European Commission put forward a fund targeting 50 billion euros in long-term equity for European AI and quantum companies, alongside a draft Quantum Act favoring EU-controlled suppliers in public procurement. The figure is a target, and the plan still needs negotiation with member states and Parliament.",
+   "link": "https://www.dw.com/en/eu-plans-50-billion-sovereign-tech-equity-fund-to-boost-quantum-technology/a-80047569",
+   "source_name": "DW",
+   "sources": [
+    {
+     "name": "European Commission",
+     "url": "https://commission.europa.eu/"
+    }
+   ],
+   "published": "2026-11-25T12:00:00+00:00",
+   "added": "2026-11-26T11:05:52+00:00",
+   "tokens": [
+    "50",
+    "ai",
+    "billion",
+    "equity",
+    "eu",
+    "euro",
+    "european",
+    "firms",
+    "fund",
+    "proposes",
+    "quantum",
+    "sovereign",
+    "tech"
+   ]
+  },
+  {
+   "id": "a2c4152a6250b827",
+   "title": "OpenAI to merge ChatGPT and Codex usage limits into one shared token pool",
+   "description": "Starting in December, Plus, Pro and Business subscribers will draw on a single token-based usage allowance across ChatGPT and Codex, with the chat and work tabs also being combined. Instant chats are excluded from the meter, and a small group of Pro users has already started.",
+   "link": "https://www.theverge.com/ai-artificial-intelligence/1042187/openai-is-combining-chatgpt-and-codex-usage-limits",
+   "source_name": "The Verge",
+   "sources": [
+    {
+     "name": "OpenAI Help Center",
+     "url": "https://help.openai.com/"
+    }
+   ],
+   "published": "2026-11-26T11:05:52+00:00",
+   "added": "2026-11-26T11:05:52+00:00",
+   "tokens": [
+    "chatgpt",
+    "codex",
+    "limits",
+    "merge",
+    "one",
+    "openai",
+    "pool",
+    "shared",
+    "token",
+    "usage"
+   ]
   }
  ]
 }
