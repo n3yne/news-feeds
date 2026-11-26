@@ -397,6 +397,92 @@
     "token",
     "usage"
    ]
+  },
+  {
+   "id": "617f6c3d7fd184c6",
+   "title": "42 state attorneys general ask bankruptcy court to block Character.AI's planned sale of user chat histories",
+   "description": "A bipartisan group of state attorneys general is opposing the Dec. 1 auction of Character.AI's platform, which would include chat data from more than 21 million U.S. accounts, about 2.1 million of them minors. They cite child-safety and privacy concerns.",
+   "link": "https://oag.ca.gov/news/press-releases/attorney-general-bonta-opposes-asset-sale-characterai-amid-child-safety-concerns",
+   "source_name": "California Attorney General",
+   "sources": [
+    {
+     "name": "TechCrunch",
+     "url": "https://techcrunch.com/2026/11/25/state-ags-fight-character-ais-plan-to-auction-off-users-private-chats/"
+    }
+   ],
+   "published": "2026-11-25T00:00:00+00:00",
+   "added": "2026-11-26T17:06:33+00:00",
+   "tokens": [
+    "42",
+    "ai",
+    "ask",
+    "attorneys",
+    "bankruptcy",
+    "block",
+    "character",
+    "chat",
+    "court",
+    "general",
+    "histories",
+    "planned",
+    "sale",
+    "state",
+    "user"
+   ]
+  },
+  {
+   "id": "9f56dd767c27fb9e",
+   "title": "OpenAI tests 'Private Inference' that runs enterprise prompts in attested confidential-computing environments",
+   "description": "OpenAI is piloting a service with a small set of business customers in which prompts are processed inside verified secure enclaves, aiming to assure companies that OpenAI cannot view their sensitive data.",
+   "link": "https://openai.com/business/private-intelligence",
+   "source_name": "OpenAI",
+   "sources": [
+    {
+     "name": "The Decoder",
+     "url": "https://the-decoder.com/openai-wants-companies-to-trust-it-with-sensitive-work-by-promising-not-to-look-at-their-data/"
+    }
+   ],
+   "published": "2026-11-26T00:00:00+00:00",
+   "added": "2026-11-26T17:06:33+00:00",
+   "tokens": [
+    "attested",
+    "computing",
+    "confidential",
+    "enterprise",
+    "environments",
+    "inference",
+    "openai",
+    "private",
+    "prompts",
+    "runs",
+    "tests"
+   ]
+  },
+  {
+   "id": "28175a595e606a53",
+   "title": "Amazon and Meta reportedly in talks to lift Amazon's block on Meta's Muse shopping agent",
+   "description": "Amazon has blocked Meta's Muse AI agent since September. The two companies are now reportedly negotiating terms centered on how search results are presented and on advertising.",
+   "link": "https://techcrunch.com/2026/11/25/amazon-and-meta-reportedly-in-talks-to-lift-blockade-on-ai-agent-muse/",
+   "source_name": "TechCrunch",
+   "sources": [
+    {
+     "name": "The Verge",
+     "url": "https://www.theverge.com/tech/1042071/meta-amazon-muse-ai-shopping-discussions"
+    }
+   ],
+   "published": "2026-11-25T00:00:00+00:00",
+   "added": "2026-11-26T17:06:33+00:00",
+   "tokens": [
+    "agent",
+    "amazon",
+    "block",
+    "lift",
+    "meta",
+    "muse",
+    "reportedly",
+    "shopping",
+    "talks"
+   ]
   }
  ]
 }

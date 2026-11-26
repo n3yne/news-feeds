@@ -5,7 +5,7 @@
 <link>https://n3yne.github.io/news-feeds/</link>
 <description>Headlines about artificial intelligence from the last 24 hours, one entry per story with sources.</description>
 <language>en-us</language>
-<lastBuildDate>Thu, 26 Nov 2026 11:05:52 +0000</lastBuildDate>
+<lastBuildDate>Thu, 26 Nov 2026 17:06:33 +0000</lastBuildDate>
 <atom:link href="https://n3yne.github.io/news-feeds/feeds/AI.rss" rel="self" type="application/rss+xml"/>
 <item>
 <title>OpenAI to merge ChatGPT and Codex usage limits into one shared token pool</title>
@@ -13,6 +13,13 @@
 <guid isPermaLink="false">a2c4152a6250b827</guid>
 <pubDate>Thu, 26 Nov 2026 11:05:52 +0000</pubDate>
 <description><![CDATA[<p>Starting in December, Plus, Pro and Business subscribers will draw on a single token-based usage allowance across ChatGPT and Codex, with the chat and work tabs also being combined. Instant chats are excluded from the meter, and a small group of Pro users has already started.</p><p>Sources: <a href="https://www.theverge.com/ai-artificial-intelligence/1042187/openai-is-combining-chatgpt-and-codex-usage-limits">The Verge</a> (primary), <a href="https://help.openai.com/">OpenAI Help Center</a></p>]]></description>
+</item>
+<item>
+<title>OpenAI tests &#x27;Private Inference&#x27; that runs enterprise prompts in attested confidential-computing environments</title>
+<link>https://openai.com/business/private-intelligence</link>
+<guid isPermaLink="false">9f56dd767c27fb9e</guid>
+<pubDate>Thu, 26 Nov 2026 00:00:00 +0000</pubDate>
+<description><![CDATA[<p>OpenAI is piloting a service with a small set of business customers in which prompts are processed inside verified secure enclaves, aiming to assure companies that OpenAI cannot view their sensitive data.</p><p>Sources: <a href="https://openai.com/business/private-intelligence">OpenAI</a> (primary), <a href="https://the-decoder.com/openai-wants-companies-to-trust-it-with-sensitive-work-by-promising-not-to-look-at-their-data/">The Decoder</a></p>]]></description>
 </item>
 <item>
 <title>FCC approves SpaceX plan for up to one million orbital AI computing satellites</title>
@@ -76,6 +83,20 @@
 <guid isPermaLink="false">3704e82ef0b2fdd8</guid>
 <pubDate>Wed, 25 Nov 2026 05:00:00 +0000</pubDate>
 <description><![CDATA[<p>Tidal says it will delete tracks it identifies as fully AI-generated while still accepting AI-assisted music. The service says fully AI-made tracks made up 43% of uploads over a recent 90-day period.</p><p>Sources: <a href="https://www.theguardian.com/music/2026/nov/25/tidal-streaming-service-bans-ai-generated-music">The Guardian</a> (primary), <a href="https://techcrunch.com/2026/11/24/tidal-to-ban-and-remove-millions-of-ai-generated-tracks-as-ai-slop-inundates-music-streaming/">TechCrunch</a></p>]]></description>
+</item>
+<item>
+<title>42 state attorneys general ask bankruptcy court to block Character.AI&#x27;s planned sale of user chat histories</title>
+<link>https://oag.ca.gov/news/press-releases/attorney-general-bonta-opposes-asset-sale-characterai-amid-child-safety-concerns</link>
+<guid isPermaLink="false">617f6c3d7fd184c6</guid>
+<pubDate>Wed, 25 Nov 2026 00:00:00 +0000</pubDate>
+<description><![CDATA[<p>A bipartisan group of state attorneys general is opposing the Dec. 1 auction of Character.AI&#x27;s platform, which would include chat data from more than 21 million U.S. accounts, about 2.1 million of them minors. They cite child-safety and privacy concerns.</p><p>Sources: <a href="https://oag.ca.gov/news/press-releases/attorney-general-bonta-opposes-asset-sale-characterai-amid-child-safety-concerns">California Attorney General</a> (primary), <a href="https://techcrunch.com/2026/11/25/state-ags-fight-character-ais-plan-to-auction-off-users-private-chats/">TechCrunch</a></p>]]></description>
+</item>
+<item>
+<title>Amazon and Meta reportedly in talks to lift Amazon&#x27;s block on Meta&#x27;s Muse shopping agent</title>
+<link>https://techcrunch.com/2026/11/25/amazon-and-meta-reportedly-in-talks-to-lift-blockade-on-ai-agent-muse/</link>
+<guid isPermaLink="false">28175a595e606a53</guid>
+<pubDate>Wed, 25 Nov 2026 00:00:00 +0000</pubDate>
+<description><![CDATA[<p>Amazon has blocked Meta&#x27;s Muse AI agent since September. The two companies are now reportedly negotiating terms centered on how search results are presented and on advertising.</p><p>Sources: <a href="https://techcrunch.com/2026/11/25/amazon-and-meta-reportedly-in-talks-to-lift-blockade-on-ai-agent-muse/">TechCrunch</a> (primary), <a href="https://www.theverge.com/tech/1042071/meta-amazon-muse-ai-shopping-discussions">The Verge</a></p>]]></description>
 </item>
 <item>
 <title>Epochal launches with $100M to build AI that predicts outcomes, founded by ex-xAI co-founders</title>
