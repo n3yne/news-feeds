@@ -5,8 +5,22 @@
 <link>https://n3yne.github.io/news-feeds/</link>
 <description>Headlines about artificial intelligence from the last 24 hours, one entry per story with sources.</description>
 <language>en-us</language>
-<lastBuildDate>Fri, 27 Nov 2026 03:07:22 +0000</lastBuildDate>
+<lastBuildDate>Fri, 27 Nov 2026 11:07:28 +0000</lastBuildDate>
 <atom:link href="https://n3yne.github.io/news-feeds/feeds/AI.rss" rel="self" type="application/rss+xml"/>
+<item>
+<title>Nvidia reportedly tells server makers to halt shipments to Southeast Asia after new US export controls</title>
+<link>https://www.ft.com/content/7838a715-07d4-4605-aa60-21f5af2b2370</link>
+<guid isPermaLink="false">ad1430f2166b0e3d</guid>
+<pubDate>Thu, 26 Nov 2026 18:00:00 +0000</pubDate>
+<description><![CDATA[<p>Nvidia has reportedly instructed Dell, Supermicro and other partners to stop shipping servers to Malaysia, Singapore, Thailand and Indonesia following the new US rule on remote access to advanced AI chips. The step is an early concrete effect of the rule on regional data-center buildouts.</p><p>Sources: <a href="https://www.ft.com/content/7838a715-07d4-4605-aa60-21f5af2b2370">Financial Times</a> (primary)</p>]]></description>
+</item>
+<item>
+<title>Apple pulls MiniMax&#x27;s Talkie AI companion app from the App Store worldwide over child-safety concerns</title>
+<link>https://www.reuters.com/business/retail-consumer/apple-pulls-minimax-ai-chatbot-app-store-over-child-safety-concerns-2026-11-26/</link>
+<guid isPermaLink="false">c69d1e272a96bf1b</guid>
+<pubDate>Thu, 26 Nov 2026 15:00:00 +0000</pubDate>
+<description><![CDATA[<p>Apple removed the Chinese-developed AI chatbot Talkie from its App Store globally after reports that it allowed sexual content involving children. The move follows an investigation by the Bureau of Investigative Journalism.</p><p>Sources: <a href="https://www.reuters.com/business/retail-consumer/apple-pulls-minimax-ai-chatbot-app-store-over-child-safety-concerns-2026-11-26/">Reuters</a> (primary), <a href="https://www.thebureauinvestigates.com/stories/2026-11-24/talkie-china-chatbot-children">The Bureau of Investigative Journalism</a></p>]]></description>
+</item>
 <item>
 <title>SAP reportedly weighs 10,000 or more job cuts to restructure around AI</title>
 <link>https://www.reuters.com/technology/sap-considers-least-10000-job-cuts-ai-restructuring-bloomberg-reports-2026-11-26</link>
@@ -20,6 +34,13 @@
 <guid isPermaLink="false">a2c4152a6250b827</guid>
 <pubDate>Thu, 26 Nov 2026 11:05:52 +0000</pubDate>
 <description><![CDATA[<p>Starting in December, Plus, Pro and Business subscribers will draw on a single token-based usage allowance across ChatGPT and Codex, with the chat and work tabs also being combined. Instant chats are excluded from the meter, and a small group of Pro users has already started.</p><p>Sources: <a href="https://www.theverge.com/ai-artificial-intelligence/1042187/openai-is-combining-chatgpt-and-codex-usage-limits">The Verge</a> (primary), <a href="https://help.openai.com/">OpenAI Help Center</a></p>]]></description>
+</item>
+<item>
+<title>Avicena raises more than $100M to link AI chips with microLED optical interconnects</title>
+<link>https://thenextweb.com/news/avicena-100m-series-c-microled-optical-interconnects-ai</link>
+<guid isPermaLink="false">e2a9a3d18efc5c4c</guid>
+<pubDate>Thu, 26 Nov 2026 11:00:00 +0000</pubDate>
+<description><![CDATA[<p>Avicena closed a Series C of over $100 million led by Intervest, with SK Hynix, Samsung and AMD participating. The company uses microLEDs rather than lasers to connect AI chips.</p><p>Sources: <a href="https://thenextweb.com/news/avicena-100m-series-c-microled-optical-interconnects-ai">The Next Web</a> (primary)</p>]]></description>
 </item>
 <item>
 <title>OpenAI tests &#x27;Private Inference&#x27; that runs enterprise prompts in attested confidential-computing environments</title>

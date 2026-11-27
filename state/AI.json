@@ -648,6 +648,81 @@
     "sap",
     "weighs"
    ]
+  },
+  {
+   "id": "c69d1e272a96bf1b",
+   "title": "Apple pulls MiniMax's Talkie AI companion app from the App Store worldwide over child-safety concerns",
+   "description": "Apple removed the Chinese-developed AI chatbot Talkie from its App Store globally after reports that it allowed sexual content involving children. The move follows an investigation by the Bureau of Investigative Journalism.",
+   "link": "https://www.reuters.com/business/retail-consumer/apple-pulls-minimax-ai-chatbot-app-store-over-child-safety-concerns-2026-11-26/",
+   "source_name": "Reuters",
+   "sources": [
+    {
+     "name": "The Bureau of Investigative Journalism",
+     "url": "https://www.thebureauinvestigates.com/stories/2026-11-24/talkie-china-chatbot-children"
+    }
+   ],
+   "published": "2026-11-26T15:00:00+00:00",
+   "added": "2026-11-27T11:07:28+00:00",
+   "tokens": [
+    "ai",
+    "app",
+    "apple",
+    "child",
+    "companion",
+    "concerns",
+    "minimax",
+    "pulls",
+    "safety",
+    "store",
+    "talkie",
+    "worldwide"
+   ]
+  },
+  {
+   "id": "ad1430f2166b0e3d",
+   "title": "Nvidia reportedly tells server makers to halt shipments to Southeast Asia after new US export controls",
+   "description": "Nvidia has reportedly instructed Dell, Supermicro and other partners to stop shipping servers to Malaysia, Singapore, Thailand and Indonesia following the new US rule on remote access to advanced AI chips. The step is an early concrete effect of the rule on regional data-center buildouts.",
+   "link": "https://www.ft.com/content/7838a715-07d4-4605-aa60-21f5af2b2370",
+   "source_name": "Financial Times",
+   "sources": [],
+   "published": "2026-11-26T18:00:00+00:00",
+   "added": "2026-11-27T11:07:28+00:00",
+   "tokens": [
+    "asia",
+    "controls",
+    "export",
+    "halt",
+    "makers",
+    "nvidia",
+    "reportedly",
+    "server",
+    "shipments",
+    "southeast",
+    "tells",
+    "us"
+   ]
+  },
+  {
+   "id": "e2a9a3d18efc5c4c",
+   "title": "Avicena raises more than $100M to link AI chips with microLED optical interconnects",
+   "description": "Avicena closed a Series C of over $100 million led by Intervest, with SK Hynix, Samsung and AMD participating. The company uses microLEDs rather than lasers to connect AI chips.",
+   "link": "https://thenextweb.com/news/avicena-100m-series-c-microled-optical-interconnects-ai",
+   "source_name": "The Next Web",
+   "sources": [],
+   "published": "2026-11-26T11:00:00+00:00",
+   "added": "2026-11-27T11:07:28+00:00",
+   "tokens": [
+    "100m",
+    "ai",
+    "avicena",
+    "chips",
+    "interconnects",
+    "link",
+    "microled",
+    "more",
+    "optical",
+    "raises"
+   ]
   }
  ]
 }
