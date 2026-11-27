@@ -888,6 +888,33 @@
     "stability",
     "trillion"
    ]
+  },
+  {
+   "id": "467f13dd911c8a54",
+   "title": "Volvo Cars begins training Hexagon's AEON humanoid robots at its Ghent plant",
+   "description": "Volvo Cars has brought AEON humanoid robots to its Ghent, Belgium factory, where they are being trained on real industrial tasks alongside Hexagon Robotics. A larger factory pilot with more units is planned for the first half of 2027, with production use targeted from mid-2027.",
+   "link": "https://robotics.hexagon.com/volvo-cars-aeon-humanoid-robots-for-manufacturing/",
+   "source_name": "Hexagon Robotics",
+   "sources": [
+    {
+     "name": "Volvo Cars",
+     "url": "https://www.volvocars.com/intl/media/press-releases/CC9EB8A9723DD536/"
+    }
+   ],
+   "published": "2026-11-26T12:00:00+00:00",
+   "added": "2026-11-27T17:19:21+00:00",
+   "tokens": [
+    "aeon",
+    "begins",
+    "cars",
+    "ghent",
+    "hexagon",
+    "humanoid",
+    "plant",
+    "robots",
+    "training",
+    "volvo"
+   ]
   }
  ]
 }

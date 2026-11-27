@@ -5,7 +5,7 @@
 <link>https://n3yne.github.io/news-feeds/</link>
 <description>Headlines about artificial intelligence from the last 24 hours, one entry per story with sources.</description>
 <language>en-us</language>
-<lastBuildDate>Fri, 27 Nov 2026 15:06:23 +0000</lastBuildDate>
+<lastBuildDate>Fri, 27 Nov 2026 17:19:21 +0000</lastBuildDate>
 <atom:link href="https://n3yne.github.io/news-feeds/feeds/AI.rss" rel="self" type="application/rss+xml"/>
 <item>
 <title>Bank of England puts AI-related financial exposure at about $4 trillion in stability report</title>
@@ -48,6 +48,13 @@
 <guid isPermaLink="false">17a805c0d69ce858</guid>
 <pubDate>Thu, 26 Nov 2026 12:00:00 +0000</pubDate>
 <description><![CDATA[<p>Microsoft threat researchers report that two China-linked groups have adopted the ARTEX AI-driven penetration-testing platform in their operations. Separately, Shadowserver counted about 4,200 internet-exposed servers running such AI hacking agents.</p><p>Sources: <a href="https://therecord.media/microsoft-china-salt-typhoon-using-artex-ai-tool">The Record</a> (primary), <a href="https://cybersecuritynews.com/4000-servers-running-ai-hacking-agents-are-exposed/">Cybersecurity News</a></p>]]></description>
+</item>
+<item>
+<title>Volvo Cars begins training Hexagon&#x27;s AEON humanoid robots at its Ghent plant</title>
+<link>https://robotics.hexagon.com/volvo-cars-aeon-humanoid-robots-for-manufacturing/</link>
+<guid isPermaLink="false">467f13dd911c8a54</guid>
+<pubDate>Thu, 26 Nov 2026 12:00:00 +0000</pubDate>
+<description><![CDATA[<p>Volvo Cars has brought AEON humanoid robots to its Ghent, Belgium factory, where they are being trained on real industrial tasks alongside Hexagon Robotics. A larger factory pilot with more units is planned for the first half of 2027, with production use targeted from mid-2027.</p><p>Sources: <a href="https://robotics.hexagon.com/volvo-cars-aeon-humanoid-robots-for-manufacturing/">Hexagon Robotics</a> (primary), <a href="https://www.volvocars.com/intl/media/press-releases/CC9EB8A9723DD536/">Volvo Cars</a></p>]]></description>
 </item>
 <item>
 <title>OpenAI to merge ChatGPT and Codex usage limits into one shared token pool</title>
