@@ -604,6 +604,50 @@
     "researchers",
     "zurich"
    ]
+  },
+  {
+   "id": "f27e0de9d097fe05",
+   "title": "S&P weighs cutting Nvidia's credit rating over governance and key-man risk",
+   "description": "S&P Global is considering lowering Nvidia from AA to AA- after Jensen Huang's ouster and reinstatement as CEO. A review is due within 90 days.",
+   "link": "https://techcrunch.com/2026/11/25/sp-considers-nvidia-credit-downgrade-over-governance-and-key-man-risks/",
+   "source_name": "TechCrunch",
+   "sources": [],
+   "published": "2026-11-25T22:00:00+00:00",
+   "added": "2026-11-27T03:07:22+00:00",
+   "tokens": [
+    "credit",
+    "cutting",
+    "governance",
+    "key",
+    "man",
+    "nvidia",
+    "rating",
+    "risk",
+    "weighs"
+   ]
+  },
+  {
+   "id": "16db581938057a33",
+   "title": "SAP reportedly weighs 10,000 or more job cuts to restructure around AI",
+   "description": "Bloomberg reports SAP is considering cutting at least 10,000 jobs, roughly 9% of its workforce, as it reshapes the business around AI.",
+   "link": "https://www.reuters.com/technology/sap-considers-least-10000-job-cuts-ai-restructuring-bloomberg-reports-2026-11-26",
+   "source_name": "Reuters",
+   "sources": [],
+   "published": "2026-11-26T12:00:00+00:00",
+   "added": "2026-11-27T03:07:22+00:00",
+   "tokens": [
+    "000",
+    "10",
+    "ai",
+    "around",
+    "cuts",
+    "job",
+    "more",
+    "reportedly",
+    "restructure",
+    "sap",
+    "weighs"
+   ]
   }
  ]
 }
