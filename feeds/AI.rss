@@ -5,8 +5,22 @@
 <link>https://n3yne.github.io/news-feeds/</link>
 <description>Headlines about artificial intelligence from the last 24 hours, one entry per story with sources.</description>
 <language>en-us</language>
-<lastBuildDate>Fri, 27 Nov 2026 13:06:58 +0000</lastBuildDate>
+<lastBuildDate>Fri, 27 Nov 2026 15:06:23 +0000</lastBuildDate>
 <atom:link href="https://n3yne.github.io/news-feeds/feeds/AI.rss" rel="self" type="application/rss+xml"/>
+<item>
+<title>Bank of England puts AI-related financial exposure at about $4 trillion in stability report</title>
+<link>https://stockanalysis.com/news/boe-financial-stability-report-ai-november-2026/</link>
+<guid isPermaLink="false">6d6d29372d121115</guid>
+<pubDate>Thu, 26 Nov 2026 23:00:00 +0000</pubDate>
+<description><![CDATA[<p>The Bank of England&#x27;s Financial Stability Report estimates total AI-linked exposure, including hyperscaler investment, at just over $4 trillion and flags it as a risk to markets.</p><p>Sources: <a href="https://stockanalysis.com/news/boe-financial-stability-report-ai-november-2026/">StockAnalysis</a> (primary)</p>]]></description>
+</item>
+<item>
+<title>Switzerland says AI agents were used in five attacks on power, water and telecom targets</title>
+<link>https://www.globalbankingandfinance.com/ai-agents-used-five-cyber-attacks-switzerland-government/</link>
+<guid isPermaLink="false">6f370f8767d47f7c</guid>
+<pubDate>Thu, 26 Nov 2026 20:00:00 +0000</pubDate>
+<description><![CDATA[<p>Switzerland&#x27;s cyber security office confirmed five recent attacks on critical infrastructure that relied on AI agents, four of which succeeded in breaching their targets.</p><p>Sources: <a href="https://www.globalbankingandfinance.com/ai-agents-used-five-cyber-attacks-switzerland-government/">Global Banking &amp; Finance</a> (primary)</p>]]></description>
+</item>
 <item>
 <title>Nvidia reportedly tells server makers to halt shipments to Southeast Asia after new US export controls</title>
 <link>https://www.ft.com/content/7838a715-07d4-4605-aa60-21f5af2b2370</link>
@@ -27,6 +41,13 @@
 <guid isPermaLink="false">16db581938057a33</guid>
 <pubDate>Thu, 26 Nov 2026 12:00:00 +0000</pubDate>
 <description><![CDATA[<p>Bloomberg reports SAP is considering cutting at least 10,000 jobs, roughly 9% of its workforce, as it reshapes the business around AI.</p><p>Sources: <a href="https://www.reuters.com/technology/sap-considers-least-10000-job-cuts-ai-restructuring-bloomberg-reports-2026-11-26">Reuters</a> (primary)</p>]]></description>
+</item>
+<item>
+<title>Microsoft says Chinese state-backed hacking groups Salt Typhoon and Crystal Typhoon now use ARTEX AI pentest tool</title>
+<link>https://therecord.media/microsoft-china-salt-typhoon-using-artex-ai-tool</link>
+<guid isPermaLink="false">17a805c0d69ce858</guid>
+<pubDate>Thu, 26 Nov 2026 12:00:00 +0000</pubDate>
+<description><![CDATA[<p>Microsoft threat researchers report that two China-linked groups have adopted the ARTEX AI-driven penetration-testing platform in their operations. Separately, Shadowserver counted about 4,200 internet-exposed servers running such AI hacking agents.</p><p>Sources: <a href="https://therecord.media/microsoft-china-salt-typhoon-using-artex-ai-tool">The Record</a> (primary), <a href="https://cybersecuritynews.com/4000-servers-running-ai-hacking-agents-are-exposed/">Cybersecurity News</a></p>]]></description>
 </item>
 <item>
 <title>OpenAI to merge ChatGPT and Codex usage limits into one shared token pool</title>

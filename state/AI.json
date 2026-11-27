@@ -812,6 +812,82 @@
     "released",
     "san"
    ]
+  },
+  {
+   "id": "17a805c0d69ce858",
+   "title": "Microsoft says Chinese state-backed hacking groups Salt Typhoon and Crystal Typhoon now use ARTEX AI pentest tool",
+   "description": "Microsoft threat researchers report that two China-linked groups have adopted the ARTEX AI-driven penetration-testing platform in their operations. Separately, Shadowserver counted about 4,200 internet-exposed servers running such AI hacking agents.",
+   "link": "https://therecord.media/microsoft-china-salt-typhoon-using-artex-ai-tool",
+   "source_name": "The Record",
+   "sources": [
+    {
+     "name": "Cybersecurity News",
+     "url": "https://cybersecuritynews.com/4000-servers-running-ai-hacking-agents-are-exposed/"
+    }
+   ],
+   "published": "2026-11-26T12:00:00+00:00",
+   "added": "2026-11-27T15:06:23+00:00",
+   "tokens": [
+    "ai",
+    "artex",
+    "backed",
+    "chinese",
+    "crystal",
+    "groups",
+    "hacking",
+    "microsoft",
+    "now",
+    "pentest",
+    "salt",
+    "state",
+    "tool",
+    "typhoon",
+    "use"
+   ]
+  },
+  {
+   "id": "6f370f8767d47f7c",
+   "title": "Switzerland says AI agents were used in five attacks on power, water and telecom targets",
+   "description": "Switzerland's cyber security office confirmed five recent attacks on critical infrastructure that relied on AI agents, four of which succeeded in breaching their targets.",
+   "link": "https://www.globalbankingandfinance.com/ai-agents-used-five-cyber-attacks-switzerland-government/",
+   "source_name": "Global Banking & Finance",
+   "sources": [],
+   "published": "2026-11-26T20:00:00+00:00",
+   "added": "2026-11-27T15:06:23+00:00",
+   "tokens": [
+    "agents",
+    "ai",
+    "attacks",
+    "five",
+    "power",
+    "switzerland",
+    "targets",
+    "telecom",
+    "used",
+    "water"
+   ]
+  },
+  {
+   "id": "6d6d29372d121115",
+   "title": "Bank of England puts AI-related financial exposure at about $4 trillion in stability report",
+   "description": "The Bank of England's Financial Stability Report estimates total AI-linked exposure, including hyperscaler investment, at just over $4 trillion and flags it as a risk to markets.",
+   "link": "https://stockanalysis.com/news/boe-financial-stability-report-ai-november-2026/",
+   "source_name": "StockAnalysis",
+   "sources": [],
+   "published": "2026-11-26T23:00:00+00:00",
+   "added": "2026-11-27T15:06:23+00:00",
+   "tokens": [
+    "ai",
+    "bank",
+    "england",
+    "exposure",
+    "financial",
+    "puts",
+    "related",
+    "report",
+    "stability",
+    "trillion"
+   ]
   }
  ]
 }
