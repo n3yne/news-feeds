@@ -5,7 +5,7 @@
 <link>https://n3yne.github.io/news-feeds/</link>
 <description>Headlines about artificial intelligence from the last 24 hours, one entry per story with sources.</description>
 <language>en-us</language>
-<lastBuildDate>Fri, 27 Nov 2026 11:07:28 +0000</lastBuildDate>
+<lastBuildDate>Fri, 27 Nov 2026 13:06:58 +0000</lastBuildDate>
 <atom:link href="https://n3yne.github.io/news-feeds/feeds/AI.rss" rel="self" type="application/rss+xml"/>
 <item>
 <title>Nvidia reportedly tells server makers to halt shipments to Southeast Asia after new US export controls</title>
@@ -78,6 +78,13 @@
 <description><![CDATA[<p>Gov. Kathy Hochul signed a law prohibiting the manufacture and sale of toys powered by AI chatbots for five years.</p><p>Sources: <a href="https://www.nbcnews.com/tech/tech-news/new-york-governor-kathy-hochul-sign-ai-toy-ban-law-rcna610962">NBC News</a> (primary)</p>]]></description>
 </item>
 <item>
+<title>Former OpenAI engineer released on $1 million bond over alleged recording device in San Francisco offices</title>
+<link>https://www.cnbc.com/2026/11/25/openai-bugging-aflozan-bond-release-saudi.html</link>
+<guid isPermaLink="false">2136a8e159c4791b</guid>
+<pubDate>Wed, 25 Nov 2026 20:00:00 +0000</pubDate>
+<description><![CDATA[<p>A former OpenAI employee accused of planting a recording device in the company&#x27;s San Francisco offices has been released on a $1 million bond. He pleaded not guilty.</p><p>Sources: <a href="https://www.cnbc.com/2026/11/25/openai-bugging-aflozan-bond-release-saudi.html">CNBC</a> (primary), <a href="https://thehackernews.com/2026/11/ex-openai-employee-accused-of-bugging.html">The Hacker News</a></p>]]></description>
+</item>
+<item>
 <title>US Commerce rule closing remote-access loophole for advanced AI chips rattles Asian data-center buildout</title>
 <link>https://www.semafor.com/article/11/25/2026/new-us-export-rules-threaten-asian-ai-buildout</link>
 <guid isPermaLink="false">8d68f8ea00812a3e</guid>
@@ -97,6 +104,20 @@
 <guid isPermaLink="false">50f1c4b5b5635e1e</guid>
 <pubDate>Wed, 25 Nov 2026 18:00:00 +0000</pubDate>
 <description><![CDATA[<p>Anthropic is moving into a larger office in Zurich as it seeks to tap the city&#x27;s pool of AI talent, according to Bloomberg.</p><p>Sources: <a href="https://www.bloomberg.com/news/articles/2026-11-25/anthropic-expands-in-zurich-moving-to-tap-city-s-ai-talent-pool">Bloomberg</a> (primary)</p>]]></description>
+</item>
+<item>
+<title>Anthropic says MCP now tops 700 million monthly SDK downloads and adds long-running Tasks and Elicitation</title>
+<link>https://claude.com/resources/articles/skills-over-mcp-tasks-and-more</link>
+<guid isPermaLink="false">44f76c8bfa0f2ce8</guid>
+<pubDate>Wed, 25 Nov 2026 18:00:00 +0000</pubDate>
+<description><![CDATA[<p>Anthropic reports the Model Context Protocol has more than 10,000 connectors and over 700 million monthly SDK downloads. The Tasks and Elicitation features, aimed at more autonomous agent workflows, are now generally available.</p><p>Sources: <a href="https://claude.com/resources/articles/skills-over-mcp-tasks-and-more">Anthropic</a> (primary), <a href="https://the-decoder.com/anthropic-tops-700-million-monthly-mcp-sdk-downloads-and-expands-the-protocol-for-more-autonomous-ai-agents/">The Decoder</a></p>]]></description>
+</item>
+<item>
+<title>PrismML releases 5.9 GB ternary-weight coding model that scores 75.6 on SWE-bench Verified</title>
+<link>https://prismml.com/news/bonsai-2-5-27b</link>
+<guid isPermaLink="false">ca7efd0c9bb94d77</guid>
+<pubDate>Wed, 25 Nov 2026 18:00:00 +0000</pubDate>
+<description><![CDATA[<p>PrismML published Ternary Bonsai 2.5 27B, a 27-billion-parameter coding model compressed to 5.9 GB using ternary weights. It is released under the Apache 2.0 license and reports 75.6 on SWE-bench Verified.</p><p>Sources: <a href="https://prismml.com/news/bonsai-2-5-27b">PrismML</a> (primary), <a href="https://the-decoder.com/prismml-squeezes-an-agent-based-coding-model-with-27-billion-parameters-into-5-9-gb/">The Decoder</a></p>]]></description>
 </item>
 <item>
 <title>Anthropic lets Claude artifacts be installed as standalone desktop apps in beta</title>

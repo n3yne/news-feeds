@@ -723,6 +723,95 @@
     "optical",
     "raises"
    ]
+  },
+  {
+   "id": "44f76c8bfa0f2ce8",
+   "title": "Anthropic says MCP now tops 700 million monthly SDK downloads and adds long-running Tasks and Elicitation",
+   "description": "Anthropic reports the Model Context Protocol has more than 10,000 connectors and over 700 million monthly SDK downloads. The Tasks and Elicitation features, aimed at more autonomous agent workflows, are now generally available.",
+   "link": "https://claude.com/resources/articles/skills-over-mcp-tasks-and-more",
+   "source_name": "Anthropic",
+   "sources": [
+    {
+     "name": "The Decoder",
+     "url": "https://the-decoder.com/anthropic-tops-700-million-monthly-mcp-sdk-downloads-and-expands-the-protocol-for-more-autonomous-ai-agents/"
+    }
+   ],
+   "published": "2026-11-25T18:00:00+00:00",
+   "added": "2026-11-27T13:06:58+00:00",
+   "tokens": [
+    "700",
+    "adds",
+    "anthropic",
+    "downloads",
+    "elicitation",
+    "long",
+    "mcp",
+    "million",
+    "monthly",
+    "now",
+    "running",
+    "sdk",
+    "tasks",
+    "tops"
+   ]
+  },
+  {
+   "id": "ca7efd0c9bb94d77",
+   "title": "PrismML releases 5.9 GB ternary-weight coding model that scores 75.6 on SWE-bench Verified",
+   "description": "PrismML published Ternary Bonsai 2.5 27B, a 27-billion-parameter coding model compressed to 5.9 GB using ternary weights. It is released under the Apache 2.0 license and reports 75.6 on SWE-bench Verified.",
+   "link": "https://prismml.com/news/bonsai-2-5-27b",
+   "source_name": "PrismML",
+   "sources": [
+    {
+     "name": "The Decoder",
+     "url": "https://the-decoder.com/prismml-squeezes-an-agent-based-coding-model-with-27-billion-parameters-into-5-9-gb/"
+    }
+   ],
+   "published": "2026-11-25T18:00:00+00:00",
+   "added": "2026-11-27T13:06:58+00:00",
+   "tokens": [
+    "75",
+    "bench",
+    "coding",
+    "gb",
+    "model",
+    "prismml",
+    "releases",
+    "scores",
+    "swe",
+    "ternary",
+    "verified",
+    "weight"
+   ]
+  },
+  {
+   "id": "2136a8e159c4791b",
+   "title": "Former OpenAI engineer released on $1 million bond over alleged recording device in San Francisco offices",
+   "description": "A former OpenAI employee accused of planting a recording device in the company's San Francisco offices has been released on a $1 million bond. He pleaded not guilty.",
+   "link": "https://www.cnbc.com/2026/11/25/openai-bugging-aflozan-bond-release-saudi.html",
+   "source_name": "CNBC",
+   "sources": [
+    {
+     "name": "The Hacker News",
+     "url": "https://thehackernews.com/2026/11/ex-openai-employee-accused-of-bugging.html"
+    }
+   ],
+   "published": "2026-11-25T20:00:00+00:00",
+   "added": "2026-11-27T13:06:58+00:00",
+   "tokens": [
+    "alleged",
+    "bond",
+    "device",
+    "engineer",
+    "former",
+    "francisco",
+    "million",
+    "offices",
+    "openai",
+    "recording",
+    "released",
+    "san"
+   ]
   }
  ]
 }
