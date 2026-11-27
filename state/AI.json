@@ -915,6 +915,95 @@
     "training",
     "volvo"
    ]
+  },
+  {
+   "id": "2800ee44151a5e10",
+   "title": "Google to require AI agents to use managed MCP servers for Gmail and Drive access from February 2027",
+   "description": "Google says Workspace admins get new API controls in about two weeks, and from Feb 1, 2027 AI tools must connect to Gmail and Drive through Google's managed MCP servers or CLI. The policy also bars scraping and long-term copies of user data.",
+   "link": "https://workspaceupdates.googleblog.com/2026/11/mcp-servers-cli-standardized-usage-tiers-now-available.html",
+   "source_name": "Google Workspace Updates",
+   "sources": [
+    {
+     "name": "Google Developers",
+     "url": "https://developers.google.com/workspace/gmail/api/guides/quotas"
+    }
+   ],
+   "published": "2026-11-26T20:00:00+00:00",
+   "added": "2026-11-27T23:06:52+00:00",
+   "tokens": [
+    "2027",
+    "access",
+    "agents",
+    "ai",
+    "drive",
+    "february",
+    "gmail",
+    "google",
+    "managed",
+    "mcp",
+    "require",
+    "servers",
+    "use"
+   ]
+  },
+  {
+   "id": "971f7afa718cdbea",
+   "title": "Google Research posts agent-written integer-factorization paper produced with Gemini 4 harness",
+   "description": "Google Research published on GitHub a zero-error integer-factorization paper written by an AI agent with no human input after the first prompt, and promised a Lean 4 formalization. The post does not claim any threat to deployed encryption keys.",
+   "link": "https://github.com/google-research/google-research/tree/4a7bc8ab0bc770e71a259b7966c500496b99010a/cogentic_research_papers/integer_factorization",
+   "source_name": "Google Research (GitHub)",
+   "sources": [
+    {
+     "name": "Nature",
+     "url": "https://www.nature.com/articles/d41586-026-03875-6"
+    }
+   ],
+   "published": "2026-11-25T18:00:00+00:00",
+   "added": "2026-11-27T23:06:52+00:00",
+   "tokens": [
+    "agent",
+    "factorization",
+    "gemini",
+    "google",
+    "harness",
+    "integer",
+    "paper",
+    "posts",
+    "produced",
+    "research",
+    "written"
+   ]
+  },
+  {
+   "id": "500cbf29a8cd934c",
+   "title": "Canada adds C$700 million to AI Compute Access Fund, covering up to 80% of costs at sovereign providers",
+   "description": "Canada is expanding its AI Compute Access Fund to C$1 billion in total. The government will now pay up to 80 percent of eligible costs when firms buy compute from qualifying sovereign providers.",
+   "link": "https://thenextweb.com/news/canada-ai-compute-access-fund-700m-expansion",
+   "source_name": "The Next Web",
+   "sources": [
+    {
+     "name": "BetaKit",
+     "url": "https://betakit.com/feds-will-now-pay-80-percent-of-costs-under-ai-compute-access-fund-if-purchased-from-a-sovereign-provider/"
+    }
+   ],
+   "published": "2026-11-26T18:00:00+00:00",
+   "added": "2026-11-27T23:06:52+00:00",
+   "tokens": [
+    "700",
+    "80",
+    "access",
+    "adds",
+    "ai",
+    "canada",
+    "compute",
+    "costs",
+    "covering",
+    "fund",
+    "million",
+    "providers",
+    "sovereign",
+    "up"
+   ]
   }
  ]
 }

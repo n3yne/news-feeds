@@ -5,7 +5,7 @@
 <link>https://n3yne.github.io/news-feeds/</link>
 <description>Headlines about artificial intelligence from the last 24 hours, one entry per story with sources.</description>
 <language>en-us</language>
-<lastBuildDate>Fri, 27 Nov 2026 17:19:21 +0000</lastBuildDate>
+<lastBuildDate>Fri, 27 Nov 2026 23:06:52 +0000</lastBuildDate>
 <atom:link href="https://n3yne.github.io/news-feeds/feeds/AI.rss" rel="self" type="application/rss+xml"/>
 <item>
 <title>Bank of England puts AI-related financial exposure at about $4 trillion in stability report</title>
@@ -22,11 +22,25 @@
 <description><![CDATA[<p>Switzerland&#x27;s cyber security office confirmed five recent attacks on critical infrastructure that relied on AI agents, four of which succeeded in breaching their targets.</p><p>Sources: <a href="https://www.globalbankingandfinance.com/ai-agents-used-five-cyber-attacks-switzerland-government/">Global Banking &amp; Finance</a> (primary)</p>]]></description>
 </item>
 <item>
+<title>Google to require AI agents to use managed MCP servers for Gmail and Drive access from February 2027</title>
+<link>https://workspaceupdates.googleblog.com/2026/11/mcp-servers-cli-standardized-usage-tiers-now-available.html</link>
+<guid isPermaLink="false">2800ee44151a5e10</guid>
+<pubDate>Thu, 26 Nov 2026 20:00:00 +0000</pubDate>
+<description><![CDATA[<p>Google says Workspace admins get new API controls in about two weeks, and from Feb 1, 2027 AI tools must connect to Gmail and Drive through Google&#x27;s managed MCP servers or CLI. The policy also bars scraping and long-term copies of user data.</p><p>Sources: <a href="https://workspaceupdates.googleblog.com/2026/11/mcp-servers-cli-standardized-usage-tiers-now-available.html">Google Workspace Updates</a> (primary), <a href="https://developers.google.com/workspace/gmail/api/guides/quotas">Google Developers</a></p>]]></description>
+</item>
+<item>
 <title>Nvidia reportedly tells server makers to halt shipments to Southeast Asia after new US export controls</title>
 <link>https://www.ft.com/content/7838a715-07d4-4605-aa60-21f5af2b2370</link>
 <guid isPermaLink="false">ad1430f2166b0e3d</guid>
 <pubDate>Thu, 26 Nov 2026 18:00:00 +0000</pubDate>
 <description><![CDATA[<p>Nvidia has reportedly instructed Dell, Supermicro and other partners to stop shipping servers to Malaysia, Singapore, Thailand and Indonesia following the new US rule on remote access to advanced AI chips. The step is an early concrete effect of the rule on regional data-center buildouts.</p><p>Sources: <a href="https://www.ft.com/content/7838a715-07d4-4605-aa60-21f5af2b2370">Financial Times</a> (primary)</p>]]></description>
+</item>
+<item>
+<title>Canada adds C$700 million to AI Compute Access Fund, covering up to 80% of costs at sovereign providers</title>
+<link>https://thenextweb.com/news/canada-ai-compute-access-fund-700m-expansion</link>
+<guid isPermaLink="false">500cbf29a8cd934c</guid>
+<pubDate>Thu, 26 Nov 2026 18:00:00 +0000</pubDate>
+<description><![CDATA[<p>Canada is expanding its AI Compute Access Fund to C$1 billion in total. The government will now pay up to 80 percent of eligible costs when firms buy compute from qualifying sovereign providers.</p><p>Sources: <a href="https://thenextweb.com/news/canada-ai-compute-access-fund-700m-expansion">The Next Web</a> (primary), <a href="https://betakit.com/feds-will-now-pay-80-percent-of-costs-under-ai-compute-access-fund-if-purchased-from-a-sovereign-provider/">BetaKit</a></p>]]></description>
 </item>
 <item>
 <title>Apple pulls MiniMax&#x27;s Talkie AI companion app from the App Store worldwide over child-safety concerns</title>
@@ -146,6 +160,13 @@
 <guid isPermaLink="false">ca7efd0c9bb94d77</guid>
 <pubDate>Wed, 25 Nov 2026 18:00:00 +0000</pubDate>
 <description><![CDATA[<p>PrismML published Ternary Bonsai 2.5 27B, a 27-billion-parameter coding model compressed to 5.9 GB using ternary weights. It is released under the Apache 2.0 license and reports 75.6 on SWE-bench Verified.</p><p>Sources: <a href="https://prismml.com/news/bonsai-2-5-27b">PrismML</a> (primary), <a href="https://the-decoder.com/prismml-squeezes-an-agent-based-coding-model-with-27-billion-parameters-into-5-9-gb/">The Decoder</a></p>]]></description>
+</item>
+<item>
+<title>Google Research posts agent-written integer-factorization paper produced with Gemini 4 harness</title>
+<link>https://github.com/google-research/google-research/tree/4a7bc8ab0bc770e71a259b7966c500496b99010a/cogentic_research_papers/integer_factorization</link>
+<guid isPermaLink="false">971f7afa718cdbea</guid>
+<pubDate>Wed, 25 Nov 2026 18:00:00 +0000</pubDate>
+<description><![CDATA[<p>Google Research published on GitHub a zero-error integer-factorization paper written by an AI agent with no human input after the first prompt, and promised a Lean 4 formalization. The post does not claim any threat to deployed encryption keys.</p><p>Sources: <a href="https://github.com/google-research/google-research/tree/4a7bc8ab0bc770e71a259b7966c500496b99010a/cogentic_research_papers/integer_factorization">Google Research (GitHub)</a> (primary), <a href="https://www.nature.com/articles/d41586-026-03875-6">Nature</a></p>]]></description>
 </item>
 <item>
 <title>Anthropic lets Claude artifacts be installed as standalone desktop apps in beta</title>
