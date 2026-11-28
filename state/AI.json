@@ -1157,6 +1157,37 @@
     "restricted",
     "traces"
    ]
+  },
+  {
+   "id": "3973f080fe72e258",
+   "title": "Sakana AI plans 'Sawara' foundation model aimed at Japanese industry, small version due early 2027",
+   "description": "Sakana AI CEO David Ha says its upcoming Sawara model targets manufacturing and industrial use in Japan, with security needs as a near-term driver. A small model is planned for early 2027, followed by a larger one.",
+   "link": "https://techcrunch.com/2026/11/28/sakana-ais-ceo-says-its-homegrown-models-are-about-more-than-japans-national-security/",
+   "source_name": "TechCrunch",
+   "sources": [
+    {
+     "name": "TechCrunch",
+     "url": "https://techcrunch.com/2026/11/28/sakana-ais-ceo-says-its-homegrown-models-are-about-more-than-japans-national-security/"
+    }
+   ],
+   "published": "2026-11-28T14:00:00+00:00",
+   "added": "2026-11-28T15:06:22+00:00",
+   "tokens": [
+    "2027",
+    "ai",
+    "aimed",
+    "due",
+    "early",
+    "foundation",
+    "industry",
+    "japanese",
+    "model",
+    "plans",
+    "sakana",
+    "sawara",
+    "small",
+    "version"
+   ]
   }
  ]
 }

@@ -5,8 +5,15 @@
 <link>https://n3yne.github.io/news-feeds/</link>
 <description>Headlines about artificial intelligence from the last 24 hours, one entry per story with sources.</description>
 <language>en-us</language>
-<lastBuildDate>Sat, 28 Nov 2026 11:06:57 +0000</lastBuildDate>
+<lastBuildDate>Sat, 28 Nov 2026 15:06:22 +0000</lastBuildDate>
 <atom:link href="https://n3yne.github.io/news-feeds/feeds/AI.rss" rel="self" type="application/rss+xml"/>
+<item>
+<title>Sakana AI plans &#x27;Sawara&#x27; foundation model aimed at Japanese industry, small version due early 2027</title>
+<link>https://techcrunch.com/2026/11/28/sakana-ais-ceo-says-its-homegrown-models-are-about-more-than-japans-national-security/</link>
+<guid isPermaLink="false">3973f080fe72e258</guid>
+<pubDate>Sat, 28 Nov 2026 14:00:00 +0000</pubDate>
+<description><![CDATA[<p>Sakana AI CEO David Ha says its upcoming Sawara model targets manufacturing and industrial use in Japan, with security needs as a near-term driver. A small model is planned for early 2027, followed by a larger one.</p><p>Sources: <a href="https://techcrunch.com/2026/11/28/sakana-ais-ceo-says-its-homegrown-models-are-about-more-than-japans-national-security/">TechCrunch</a> (primary), <a href="https://techcrunch.com/2026/11/28/sakana-ais-ceo-says-its-homegrown-models-are-about-more-than-japans-national-security/">TechCrunch</a></p>]]></description>
+</item>
 <item>
 <title>Bloomberg traces restricted Nvidia GB300 rack at Chinese data center to Gigabyte</title>
 <link>https://www.engadget.com/2329748/restricted-nvidia-chips-were-installed-at-a-chinese-data-center-linked-to-alice-huang/</link>
