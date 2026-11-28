@@ -5,8 +5,22 @@
 <link>https://n3yne.github.io/news-feeds/</link>
 <description>Headlines about artificial intelligence from the last 24 hours, one entry per story with sources.</description>
 <language>en-us</language>
-<lastBuildDate>Fri, 27 Nov 2026 23:06:52 +0000</lastBuildDate>
+<lastBuildDate>Sat, 28 Nov 2026 03:06:34 +0000</lastBuildDate>
 <atom:link href="https://n3yne.github.io/news-feeds/feeds/AI.rss" rel="self" type="application/rss+xml"/>
+<item>
+<title>Nvidia reportedly warns specialty cloud providers they could lose GPU access if they rent capacity to Chinese firms</title>
+<link>https://thenextweb.com/news/nvidia-gpu-sellers-neoclouds-no-chinese-renters</link>
+<guid isPermaLink="false">d9a5ecf91372836e</guid>
+<pubDate>Fri, 27 Nov 2026 12:00:00 +0000</pubDate>
+<description><![CDATA[<p>Nvidia has reportedly told neocloud GPU providers that renting out capacity to Chinese customers could jeopardize their own chip supply. The move extends the company&#x27;s export-control compliance push beyond direct sales to downstream rentals.</p><p>Sources: <a href="https://thenextweb.com/news/nvidia-gpu-sellers-neoclouds-no-chinese-renters">The Next Web</a> (primary), <a href="https://thenextweb.com/news/nvidia-gpu-sellers-neoclouds-no-chinese-renters">The Next Web</a></p>]]></description>
+</item>
+<item>
+<title>OpenAI fixes GPT-6.2 pricing error, leaving Astra and Sol users hitting limits faster</title>
+<link>https://the-decoder.com/gpt-6-2-astra-users-now-hit-limits-40-faster-after-openai-patched-a-pricing-error/</link>
+<guid isPermaLink="false">27f35f09a947a507</guid>
+<pubDate>Fri, 27 Nov 2026 10:00:00 +0000</pubDate>
+<description><![CDATA[<p>After correcting a billing mistake, OpenAI says users reach usage limits about 40% faster on Astra and 25% faster on Sol than the prior week. Eligible subscribers get an extra usage reset and Business users get free Fast Mode through the end of 2026.</p><p>Sources: <a href="https://the-decoder.com/gpt-6-2-astra-users-now-hit-limits-40-faster-after-openai-patched-a-pricing-error/">The Decoder</a> (primary), <a href="https://the-decoder.com/gpt-6-2-astra-users-now-hit-limits-40-faster-after-openai-patched-a-pricing-error/">The Decoder</a></p>]]></description>
+</item>
 <item>
 <title>Bank of England puts AI-related financial exposure at about $4 trillion in stability report</title>
 <link>https://stockanalysis.com/news/boe-financial-stability-report-ai-november-2026/</link>
@@ -27,6 +41,13 @@
 <guid isPermaLink="false">2800ee44151a5e10</guid>
 <pubDate>Thu, 26 Nov 2026 20:00:00 +0000</pubDate>
 <description><![CDATA[<p>Google says Workspace admins get new API controls in about two weeks, and from Feb 1, 2027 AI tools must connect to Gmail and Drive through Google&#x27;s managed MCP servers or CLI. The policy also bars scraping and long-term copies of user data.</p><p>Sources: <a href="https://workspaceupdates.googleblog.com/2026/11/mcp-servers-cli-standardized-usage-tiers-now-available.html">Google Workspace Updates</a> (primary), <a href="https://developers.google.com/workspace/gmail/api/guides/quotas">Google Developers</a></p>]]></description>
+</item>
+<item>
+<title>US chip curbs and distillation crackdown slow Chinese AI labs, Reuters reports</title>
+<link>https://www.reuters.com/world/china/us-chip-curbs-distillation-crackdown-threaten-chinese-ai-model-development-2026-11-26/</link>
+<guid isPermaLink="false">6372db989d9d218b</guid>
+<pubDate>Thu, 26 Nov 2026 20:00:00 +0000</pubDate>
+<description><![CDATA[<p>Z.AI is reportedly behind schedule on its next flagship model, and Moonshot AI expects the gap between major releases to stretch from about six months to a year or more without overseas compute. The report ties the slowdown to tighter US export controls.</p><p>Sources: <a href="https://www.reuters.com/world/china/us-chip-curbs-distillation-crackdown-threaten-chinese-ai-model-development-2026-11-26/">Reuters</a> (primary), <a href="https://www.reuters.com/world/china/us-chip-curbs-distillation-crackdown-threaten-chinese-ai-model-development-2026-11-26/">Reuters</a></p>]]></description>
 </item>
 <item>
 <title>Nvidia reportedly tells server makers to halt shipments to Southeast Asia after new US export controls</title>

@@ -1004,6 +1004,96 @@
     "sovereign",
     "up"
    ]
+  },
+  {
+   "id": "d9a5ecf91372836e",
+   "title": "Nvidia reportedly warns specialty cloud providers they could lose GPU access if they rent capacity to Chinese firms",
+   "description": "Nvidia has reportedly told neocloud GPU providers that renting out capacity to Chinese customers could jeopardize their own chip supply. The move extends the company's export-control compliance push beyond direct sales to downstream rentals.",
+   "link": "https://thenextweb.com/news/nvidia-gpu-sellers-neoclouds-no-chinese-renters",
+   "source_name": "The Next Web",
+   "sources": [
+    {
+     "name": "The Next Web",
+     "url": "https://thenextweb.com/news/nvidia-gpu-sellers-neoclouds-no-chinese-renters"
+    }
+   ],
+   "published": "2026-11-27T12:00:00+00:00",
+   "added": "2026-11-28T03:06:34+00:00",
+   "tokens": [
+    "access",
+    "capacity",
+    "chinese",
+    "cloud",
+    "could",
+    "firms",
+    "gpu",
+    "if",
+    "lose",
+    "nvidia",
+    "providers",
+    "rent",
+    "reportedly",
+    "specialty",
+    "they",
+    "warns"
+   ]
+  },
+  {
+   "id": "6372db989d9d218b",
+   "title": "US chip curbs and distillation crackdown slow Chinese AI labs, Reuters reports",
+   "description": "Z.AI is reportedly behind schedule on its next flagship model, and Moonshot AI expects the gap between major releases to stretch from about six months to a year or more without overseas compute. The report ties the slowdown to tighter US export controls.",
+   "link": "https://www.reuters.com/world/china/us-chip-curbs-distillation-crackdown-threaten-chinese-ai-model-development-2026-11-26/",
+   "source_name": "Reuters",
+   "sources": [
+    {
+     "name": "Reuters",
+     "url": "https://www.reuters.com/world/china/us-chip-curbs-distillation-crackdown-threaten-chinese-ai-model-development-2026-11-26/"
+    }
+   ],
+   "published": "2026-11-26T20:00:00+00:00",
+   "added": "2026-11-28T03:06:34+00:00",
+   "tokens": [
+    "ai",
+    "chinese",
+    "chip",
+    "crackdown",
+    "curbs",
+    "distillation",
+    "labs",
+    "reports",
+    "reuters",
+    "slow",
+    "us"
+   ]
+  },
+  {
+   "id": "27f35f09a947a507",
+   "title": "OpenAI fixes GPT-6.2 pricing error, leaving Astra and Sol users hitting limits faster",
+   "description": "After correcting a billing mistake, OpenAI says users reach usage limits about 40% faster on Astra and 25% faster on Sol than the prior week. Eligible subscribers get an extra usage reset and Business users get free Fast Mode through the end of 2026.",
+   "link": "https://the-decoder.com/gpt-6-2-astra-users-now-hit-limits-40-faster-after-openai-patched-a-pricing-error/",
+   "source_name": "The Decoder",
+   "sources": [
+    {
+     "name": "The Decoder",
+     "url": "https://the-decoder.com/gpt-6-2-astra-users-now-hit-limits-40-faster-after-openai-patched-a-pricing-error/"
+    }
+   ],
+   "published": "2026-11-27T10:00:00+00:00",
+   "added": "2026-11-28T03:06:34+00:00",
+   "tokens": [
+    "astra",
+    "error",
+    "faster",
+    "fixes",
+    "gpt",
+    "hitting",
+    "leaving",
+    "limits",
+    "openai",
+    "pricing",
+    "sol",
+    "users"
+   ]
   }
  ]
 }
