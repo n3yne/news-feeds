@@ -5,8 +5,22 @@
 <link>https://n3yne.github.io/news-feeds/</link>
 <description>Headlines about artificial intelligence from the last 24 hours, one entry per story with sources.</description>
 <language>en-us</language>
-<lastBuildDate>Sat, 28 Nov 2026 03:06:34 +0000</lastBuildDate>
+<lastBuildDate>Sat, 28 Nov 2026 11:06:57 +0000</lastBuildDate>
 <atom:link href="https://n3yne.github.io/news-feeds/feeds/AI.rss" rel="self" type="application/rss+xml"/>
+<item>
+<title>Bloomberg traces restricted Nvidia GB300 rack at Chinese data center to Gigabyte</title>
+<link>https://www.engadget.com/2329748/restricted-nvidia-chips-were-installed-at-a-chinese-data-center-linked-to-alice-huang/</link>
+<guid isPermaLink="false">4ff5374db0859657</guid>
+<pubDate>Fri, 27 Nov 2026 19:45:00 +0000</pubDate>
+<description><![CDATA[<p>Bloomberg reports that a server rack holding export-restricted Nvidia GB300 chips was installed at a Chinese data center linked to Alice Huang, and traced the hardware to Gigabyte Technology. Separately, Tom&#x27;s Hardware reports two California-based Nvidia customers were allegedly Chinese-owned fronts used to sidestep export controls.</p><p>Sources: <a href="https://www.engadget.com/2329748/restricted-nvidia-chips-were-installed-at-a-chinese-data-center-linked-to-alice-huang/">Engadget</a> (primary), <a href="https://www.tomshardware.com/tech-industry/big-tech/two-californian-nvidia-ai-chip-customers-are-really-chinese-owned-companies-used-as-workaround-for-government-export-controls">Tom&#x27;s Hardware</a></p>]]></description>
+</item>
+<item>
+<title>OpenAI countersues Apple, alleging it pressured suppliers to shun OpenAI devices and blocked engineer moves</title>
+<link>https://www.bloomberg.com/news/articles/2026-11-27/openai-says-apple-pressured-suppliers-to-shun-its-devices</link>
+<guid isPermaLink="false">782abf0585f6924b</guid>
+<pubDate>Fri, 27 Nov 2026 19:02:00 +0000</pubDate>
+<description><![CDATA[<p>In a California federal court filing, OpenAI accused Apple of pressuring shared suppliers not to work on OpenAI hardware and of using broad employment agreements to stop engineers from leaving. OpenAI also denies Apple&#x27;s July trade-secret claims over device technology.</p><p>Sources: <a href="https://www.bloomberg.com/news/articles/2026-11-27/openai-says-apple-pressured-suppliers-to-shun-its-devices">Bloomberg</a> (primary), <a href="https://www.engadget.com/2329747/openai-countersues-apple-and-accuses-it-of-stealing-trade-secrets/">Engadget</a>, <a href="https://the-decoder.com/openai-countersues-apple-over-trade-secret-theft-and-alleged-coercion-of-shared-suppliers/">The Decoder</a>, <a href="https://thenextweb.com/news/openai-countersues-apple-suppliers-pressure-devices">TNW</a></p>]]></description>
+</item>
 <item>
 <title>Nvidia reportedly warns specialty cloud providers they could lose GPU access if they rent capacity to Chinese firms</title>
 <link>https://thenextweb.com/news/nvidia-gpu-sellers-neoclouds-no-chinese-renters</link>
