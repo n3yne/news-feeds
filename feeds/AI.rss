@@ -5,7 +5,7 @@
 <link>https://n3yne.github.io/news-feeds/</link>
 <description>Headlines about artificial intelligence from the last 24 hours, one entry per story with sources.</description>
 <language>en-us</language>
-<lastBuildDate>Sat, 28 Nov 2026 15:06:22 +0000</lastBuildDate>
+<lastBuildDate>Sat, 28 Nov 2026 19:06:16 +0000</lastBuildDate>
 <atom:link href="https://n3yne.github.io/news-feeds/feeds/AI.rss" rel="self" type="application/rss+xml"/>
 <item>
 <title>Sakana AI plans &#x27;Sawara&#x27; foundation model aimed at Japanese industry, small version due early 2027</title>
@@ -111,6 +111,13 @@
 <guid isPermaLink="false">467f13dd911c8a54</guid>
 <pubDate>Thu, 26 Nov 2026 12:00:00 +0000</pubDate>
 <description><![CDATA[<p>Volvo Cars has brought AEON humanoid robots to its Ghent, Belgium factory, where they are being trained on real industrial tasks alongside Hexagon Robotics. A larger factory pilot with more units is planned for the first half of 2027, with production use targeted from mid-2027.</p><p>Sources: <a href="https://robotics.hexagon.com/volvo-cars-aeon-humanoid-robots-for-manufacturing/">Hexagon Robotics</a> (primary), <a href="https://www.volvocars.com/intl/media/press-releases/CC9EB8A9723DD536/">Volvo Cars</a></p>]]></description>
+</item>
+<item>
+<title>Sber releases GigaChat 4 models, including a 708B-parameter MoE under MIT license</title>
+<link>https://huggingface.co/ai-sage/GigaChat4-708B-A41B</link>
+<guid isPermaLink="false">f99ebfacf98c0b6f</guid>
+<pubDate>Thu, 26 Nov 2026 12:00:00 +0000</pubDate>
+<description><![CDATA[<p>Sber published two GigaChat 4 models on Hugging Face: a 708B-parameter mixture-of-experts model with 41B active parameters per token under an MIT license, and a 37B model with a non-commercial license for individuals. Both support a context window of about 1 million tokens.</p><p>Sources: <a href="https://huggingface.co/ai-sage/GigaChat4-708B-A41B">Hugging Face</a> (primary), <a href="https://huggingface.co/ai-sage/GigaChat4-708B-A41B">Hugging Face</a></p>]]></description>
 </item>
 <item>
 <title>OpenAI to merge ChatGPT and Codex usage limits into one shared token pool</title>

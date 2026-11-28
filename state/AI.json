@@ -1188,6 +1188,34 @@
     "small",
     "version"
    ]
+  },
+  {
+   "id": "f99ebfacf98c0b6f",
+   "title": "Sber releases GigaChat 4 models, including a 708B-parameter MoE under MIT license",
+   "description": "Sber published two GigaChat 4 models on Hugging Face: a 708B-parameter mixture-of-experts model with 41B active parameters per token under an MIT license, and a 37B model with a non-commercial license for individuals. Both support a context window of about 1 million tokens.",
+   "link": "https://huggingface.co/ai-sage/GigaChat4-708B-A41B",
+   "source_name": "Hugging Face",
+   "sources": [
+    {
+     "name": "Hugging Face",
+     "url": "https://huggingface.co/ai-sage/GigaChat4-708B-A41B"
+    }
+   ],
+   "published": "2026-11-26T12:00:00+00:00",
+   "added": "2026-11-28T19:06:16+00:00",
+   "tokens": [
+    "708b",
+    "gigachat",
+    "including",
+    "license",
+    "mit",
+    "models",
+    "moe",
+    "parameter",
+    "releases",
+    "sber",
+    "under"
+   ]
   }
  ]
 }
